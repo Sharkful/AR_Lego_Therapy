@@ -1,0 +1,13 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"UXTools": "UnrealEditor-UXTools.dll",
+		"UXToolsEditor": "UnrealEditor-UXToolsEditor.dll",
+		"UXToolsInput": "UnrealEditor-UXToolsInput.dll",
+		"UXToolsShaders": "UnrealEditor-UXToolsShaders.dll",
+		"XRSimulation": "UnrealEditor-XRSimulation.dll",
+		"XRSimulationEditor": "UnrealEditor-XRSimulationEditor.dll",
+		"XRSimulationInput": "UnrealEditor-XRSimulationInput.dll"
+	}
+}

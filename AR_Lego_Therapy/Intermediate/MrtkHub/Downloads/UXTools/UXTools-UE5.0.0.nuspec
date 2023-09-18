@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>UXTools-UE5.0.0</id>
+    <version>0.12.1</version>
+    <title>Mixed Reality UX Tools</title>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>native/Resources/Icon128.png</icon>
+    <projectUrl>https://github.com/microsoft/MixedReality-UXTools-Unreal</projectUrl>
+    <description>Set of tools and utilities to add interactivity to mixed reality applications.</description>
+    <releaseNotes>https://microsoft.github.io/MixedReality-UXTools-Unreal/version/public/0.12.x-UE5.0/Docs/ReleaseNotes.html</releaseNotes>
+    <copyright>Copyright (c) Microsoft Corporation. All rights reserved.</copyright>
+    <tags>HoloLens2</tags>
+  </metadata>
+</package>

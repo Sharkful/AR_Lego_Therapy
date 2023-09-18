@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GraphicsTools-UE5.0.0</id>
+    <version>0.4.0</version>
+    <title>Mixed Reality Graphics Tools</title>
+    <authors>Microsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>native/Resources/Icon128.png</icon>
+    <projectUrl>https://github.com/microsoft/MixedReality-GraphicsTools-Unreal</projectUrl>
+    <description>Graphics tools and components for developing Mixed Reality applications.</description>
+    <releaseNotes>https://github.com/microsoft/MixedReality-GraphicsTools-Unreal/blob/public/0.4.x/Docs/ReleaseNotes.md</releaseNotes>
+    <copyright>Copyright (c) Microsoft Corporation. All rights reserved.</copyright>
+    <tags>HoloLens2</tags>
+  </metadata>
+</package>
