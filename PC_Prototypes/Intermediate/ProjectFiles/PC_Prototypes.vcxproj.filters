@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PC_Prototypes.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PC_Prototypes.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PC_PrototypesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\PC_Prototypes">
+      <UniqueIdentifier>{D8E03BEB-9F43-3C36-9131-655FB67AFF05}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PC_Prototypes\EOS_GameInstance.cpp">
+      <Filter>Source\PC_Prototypes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PC_Prototypes\EOS_GameInstance.h">
+      <Filter>Source\PC_Prototypes</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PC_Prototypes\PC_Prototypes.Build.cs">
+      <Filter>Source\PC_Prototypes</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PC_Prototypes\PC_Prototypes.cpp">
+      <Filter>Source\PC_Prototypes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PC_Prototypes\PC_Prototypes.h">
+      <Filter>Source\PC_Prototypes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

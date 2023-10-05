@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\ar_lego_therapy\\pc_prototypes\\source\\pc_prototypes\\pc_prototypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ar_lego_therapy\\pc_prototypes\\intermediate\\build\\win64\\pc_prototypeseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\ar_lego_therapy\\pc_prototypes\\intermediate\\build\\win64\\unrealeditor\\development\\pc_prototypes\\definitions.pc_prototypes.h",
+            "g:\\ar_lego_therapy\\pc_prototypes\\source\\pc_prototypes\\pc_prototypes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
