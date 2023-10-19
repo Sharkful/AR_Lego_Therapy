@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "PC_Prototypes",
-			"Path": "G:\\AR_Lego_Therapy\\PC_Prototypes\\Source\\PC_Prototypes.Target.cs",
+			"Path": "C:\\Users\\Nate\\Documents\\SourceTree\\PC_Prototypes\\Source\\PC_Prototypes.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "PC_PrototypesEditor",
-			"Path": "G:\\AR_Lego_Therapy\\PC_Prototypes\\Source\\PC_PrototypesEditor.Target.cs",
+			"Path": "C:\\Users\\Nate\\Documents\\SourceTree\\PC_Prototypes\\Source\\PC_PrototypesEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

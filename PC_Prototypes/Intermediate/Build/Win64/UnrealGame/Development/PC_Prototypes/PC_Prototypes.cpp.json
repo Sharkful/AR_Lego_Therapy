@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\nate\\documents\\sourcetree\\pc_prototypes\\source\\pc_prototypes\\pc_prototypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nate\\documents\\sourcetree\\pc_prototypes\\intermediate\\build\\win64\\pc_prototypes\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\nate\\documents\\sourcetree\\pc_prototypes\\intermediate\\build\\win64\\unrealgame\\development\\pc_prototypes\\definitions.pc_prototypes.h",
+            "c:\\users\\nate\\documents\\sourcetree\\pc_prototypes\\source\\pc_prototypes\\pc_prototypes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

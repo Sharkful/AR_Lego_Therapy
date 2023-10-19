@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PC_Prototypes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\EOS_GameInstance.cpp.obj"
+"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\PC_Prototypes.cpp.obj"
+"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\EOS_GameInstance.gen.cpp.obj"
+"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\PC_Prototypes.init.gen.cpp.obj"
+"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\Default.rc2.res"
+/OUT:"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\UnrealEditor-PC_Prototypes.lib"

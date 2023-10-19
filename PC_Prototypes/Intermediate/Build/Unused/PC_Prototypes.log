@@ -1,0 +1,22 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Nate\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Nate\Documents\SourceTree).
+  Parsing headers for PC_PrototypesEditor
+    Running UnrealHeaderTool "C:\Users\Nate\Documents\SourceTree\PC_Prototypes\PC_Prototypes.uproject" "C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\PC_PrototypesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Nate\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for PC_PrototypesEditor in 2.6933881 seconds
+  Building PC_PrototypesEditor...
+  Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 6 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 6.85 GB available: limiting max parallel actions to 4
+  Building 6 actions with 4 processes...
+  [1/6] Compile PC_Prototypes.init.gen.cpp
+  [2/6] Compile EOSGameInstanceSubsystem.cpp
+  [3/6] Compile EOSGameInstanceSubsystem.gen.cpp
+  [4/6] Link UnrealEditor-PC_Prototypes.lib
+     Creating library C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\UnrealEditor-PC_Prototypes.lib and object C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\UnrealEditor-PC_Prototypes.exp
+  [5/6] Link UnrealEditor-PC_Prototypes.dll
+     Creating library C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\UnrealEditor-PC_Prototypes.suppressed.lib and object C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\UnrealEditor-PC_Prototypes.suppressed.exp
+  [6/6] WriteMetadata PC_PrototypesEditor.target
+  Total time in Parallel executor: 5.45 seconds
+  Total execution time: 9.01 seconds

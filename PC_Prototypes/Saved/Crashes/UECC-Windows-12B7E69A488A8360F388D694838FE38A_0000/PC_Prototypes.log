@@ -1,0 +1,1391 @@
+﻿Log file open, 10/17/23 11:53:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14480)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PC_Prototypes
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Nate\Documents\SourceTree\PC_Prototypes\PC_Prototypes.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.3570] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a869208f4ff9d99d7d123081ae59822a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.843341
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-12B7E69A488A8360F388D694838FE38A
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin RigLogic
+LogPluginManager: Mounting Engine plugin AISupport
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin NeuralNetworkInference
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MetaHuman
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin OpenCV
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/RigLogic/Content/' mounted to '/RigLogic/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/MetaHuman/Content/' mounted to '/MetaHuman/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenCV/Content/' mounted to '/OpenCV/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogWindows: Failed to load '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+LogWindows: File '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogEOSSDK: Initializing EOSSDK Version:1.14.2-20976885
+LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2023-10-17T16:53:18.285Z
+LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.3570.64bit, ClientId=xyza7891JHA57ircB2bEljKLtGDON3K5, ProductId=e9f7f7dbf40444d8b6a7747766e0f4c0, SandboxId=b2c019b6375c4f8ca2c00e6fd328e57f, DeploymentId=31dee33358434e9fb2eca169338604ea, ProductName=PC_Prototypes, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+LogEOSSDK: LogEOSRTC: LibRTCCore: Initializing LibRTC...
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: EOS
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.3570] (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2023.10.17-16.53.18:588][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.10.17-16.53.18:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.10.17-16.53.18:589][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.10.17-16.53.18:589][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.10.17-16.53.18:590][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.10.17-16.53.18:599][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.10.17-16.53.18:634][  0]LogD3D12RHI: Aftermath initialized
+[2023.10.17-16.53.18:635][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.10.17-16.53.18:837][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.10.17-16.53.18:837][  0]LogD3D12RHI: Adapter has 8019MB of dedicated video memory, 0MB of dedicated system memory, and 8161MB of shared system memory, 3 output[s]
+[2023.10.17-16.53.18:845][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.10.17-16.53.18:845][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8161MB of shared system memory, 0 output[s]
+[2023.10.17-16.53.18:846][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.10.17-16.53.18:846][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.10.17-16.53.18:847][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.10.17-16.53.18:848][  0]LogHAL: Display: Platform has ~ 16 GB [17116467200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.10.17-16.53.18:848][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.10.17-16.53.18:848][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.10.17-16.53.18:849][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.10.17-16.53.18:849][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.10.17-16.53.18:849][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Config/WindowsEditor/Editor.ini]
+[2023.10.17-16.53.18:849][  0]LogInit: Computer: DESKTOP-VST54H2
+[2023.10.17-16.53.18:849][  0]LogInit: User: Nate
+[2023.10.17-16.53.18:849][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.10.17-16.53.18:849][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.10.17-16.53.18:849][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.10.17-16.53.18:849][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.10.17-16.53.18:849][  0]LogMemory: Process Physical Memory: 279.89 MB used, 290.14 MB peak
+[2023.10.17-16.53.18:849][  0]LogMemory: Process Virtual Memory: 227.82 MB used, 230.41 MB peak
+[2023.10.17-16.53.18:849][  0]LogMemory: Physical Memory: 7606.09 MB used,  8717.44 MB free, 16323.54 MB total
+[2023.10.17-16.53.18:849][  0]LogMemory: Virtual Memory: 10722.46 MB used,  29153.07 MB free, 39875.54 MB total
+[2023.10.17-16.53.18:849][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.10.17-16.53.18:854][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.10.17-16.53.18:889][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.10.17-16.53.18:891][  0]LogInit: Using OS detected language (en-US).
+[2023.10.17-16.53.18:892][  0]LogInit: Using OS detected locale (en-US).
+[2023.10.17-16.53.18:906][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.10.17-16.53.19:090][  0]LogInit: Setting process to per monitor DPI aware
+[2023.10.17-16.53.19:104][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.10.17-16.53.19:104][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.10.17-16.53.19:104][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.10.17-16.53.19:142][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.10.17-16.53.19:142][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.10.17-16.53.19:413][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.10.17-16.53.19:416][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.10.17-16.53.19:416][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.10.17-16.53.19:526][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.10.17-16.53.19:526][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.10.17-16.53.19:526][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.10.17-16.53.19:526][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.10.17-16.53.19:526][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.10.17-16.53.19:526][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.10.17-16.53.19:527][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.10.17-16.53.19:573][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.10.17-16.53.19:581][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.10.17-16.53.19:594][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.10.17-16.53.19:615][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.10.17-16.53.19:615][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.10.17-16.53.19:668][  0]LogD3D12RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2023.10.17-16.53.19:668][  0]LogWindows: Attached monitors:
+[2023.10.17-16.53.19:668][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.10.17-16.53.19:668][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY2'
+[2023.10.17-16.53.19:668][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY3'
+[2023.10.17-16.53.19:668][  0]LogWindows: Found 3 attached monitors.
+[2023.10.17-16.53.19:668][  0]LogWindows: EnumDisplayDevices:
+[2023.10.17-16.53.19:668][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.10.17-16.53.19:669][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.10.17-16.53.19:669][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:1), name: '\\.\DISPLAY3'
+[2023.10.17-16.53.19:669][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.10.17-16.53.19:669][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.10.17-16.53.19:669][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2023.10.17-16.53.19:669][  0]LogD3D12RHI:   Driver Version: 537.42 (internal:31.0.15.3742, unified:537.42)
+[2023.10.17-16.53.19:669][  0]LogD3D12RHI:      Driver Date: 9-12-2023
+[2023.10.17-16.53.19:669][  0]LogRHI: Texture pool is 4568 MB (70% of 6525 MB)
+[2023.10.17-16.53.19:669][  0]LogD3D12RHI: Async texture creation enabled
+[2023.10.17-16.53.19:669][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.10.17-16.53.19:708][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.10.17-16.53.19:721][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/PC_Prototypes.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/PC_Prototypes.uproject"  -platform=all'
+[2023.10.17-16.53.19:722][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/PC_Prototypes.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Nate/Documents/SourceTree/PC_Prototypes/PC_Prototypes.uproject"  -platform=all" ]
+[2023.10.17-16.53.19:749][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.10.17-16.53.19:771][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.10.17-16.53.19:771][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.10.17-16.53.19:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.10.17-16.53.19:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.10.17-16.53.19:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.10.17-16.53.19:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.10.17-16.53.19:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.10.17-16.53.19:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.10.17-16.53.19:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.10.17-16.53.19:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.10.17-16.53.19:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.10.17-16.53.19:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.10.17-16.53.19:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.10.17-16.53.19:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.10.17-16.53.19:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.10.17-16.53.19:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.10.17-16.53.19:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.10.17-16.53.19:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.10.17-16.53.19:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.10.17-16.53.19:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.10.17-16.53.19:838][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.10.17-16.53.19:852][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.10.17-16.53.19:855][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.10.17-16.53.19:856][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.10.17-16.53.19:856][  0]LogTargetPlatformManager:   ADPCM
+[2023.10.17-16.53.19:856][  0]LogTargetPlatformManager:   PCM
+[2023.10.17-16.53.19:859][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.10.17-16.53.19:859][  0]LogTargetPlatformManager:   BINKA
+[2023.10.17-16.53.19:859][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.10.17-16.53.19:859][  0]LogTargetPlatformManager:   OGG
+[2023.10.17-16.53.19:859][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.10.17-16.53.19:859][  0]LogTargetPlatformManager:   OPUS
+[2023.10.17-16.53.20:030][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.10.17-16.53.20:044][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.10.17-16.53.20:052][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.10.17-16.53.20:052][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.10.17-16.53.20:056][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.10.17-16.53.20:056][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.10.17-16.53.20:056][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.10.17-16.53.20:057][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.10.17-16.53.20:063][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.10.17-16.53.20:064][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.10.17-16.53.20:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.17-16.53.20:064][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.10.17-16.53.20:089][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.10.17-16.53.20:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.10.17-16.53.20:089][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.10.17-16.53.20:102][  0]LogDerivedDataCache: Speed tests for C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.10.17-16.53.20:102][  0]LogDerivedDataCache: Display: Performance to C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.16ms. RandomReadSpeed=151.42MBs, RandomWriteSpeed=221.66MBs. Assigned SpeedClass 'Local'
+[2023.10.17-16.53.20:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.10.17-16.53.20:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.10.17-16.53.20:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.10.17-16.53.20:109][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.10.17-16.53.20:109][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.10.17-16.53.20:117][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Intermediate/Shaders/WorkingDirectory/2268/).
+[2023.10.17-16.53.20:117][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nate/AppData/Local/Temp/UnrealShaderWorkingDir/BA6C37494AE61863D33EA6ADBCBD8428/'.
+[2023.10.17-16.53.20:118][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.10.17-16.53.20:118][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.10.17-16.53.21:691][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.10.17-16.53.21:691][  0]LogSlate: Using FreeType 2.10.0
+[2023.10.17-16.53.21:695][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.10.17-16.53.21:758][  0]LogAssetRegistry: FAssetRegistry took 0.0174 seconds to start up
+[2023.10.17-16.53.21:779][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.10.17-16.53.22:053][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.10.17-16.53.22:061][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.10.17-16.53.22:339][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.10.17-16.53.22:339][  0]LogDeviceProfileManager: Active device profile: [00000B1B6E439300][00000B1B52F25000 50] WindowsEditor
+[2023.10.17-16.53.22:339][  0]LogDeviceProfileManager: Profiles: [00000B1B6E438DC0][00000B1B626F7800 50] Windows, [00000B1B6E439300][00000B1B52F25000 50] WindowsEditor, [00000B1B6E438A40][00000B1B62720000 50] WindowsServer, [00000B1B6E435780][00000B1B6E790000 50] WindowsClient, [00000B1B6E4355C0][00000B1B6E795000 50] IOS, [00000B1B6E4394C0][00000B1B6E797800 50] iPadAir2, [00000B1B6E434EC0][00000B1B6E79C800 50] IPadPro, [00000B1B6E435080][00000B1B6E79A000 50] iPadAir3, [00000B1B6E4386C0][00000B1B62722800 50] iPadAir4, [00000B1B6E435240][00000B1B6E7A0000 50] iPadMini4, [00000B1B6E435CC0][00000B1B6E7A5000 50] iPadMini5, [00000B1B6E438180][00000B1B6E7A7800 50] iPadMini6, [00000B1B6E43CB00][00000B1B6E792800 50] iPhone6S, [00000B1B6E43CE80][00000B1B6E7AC800 50] iPhone7, [00000B1B6E43D200][00000B1B6E7AA000 50] iPodTouch7, [00000B1B6E434280][00000B1B6E8A0000 50] iPhone6SPlus, [00000B1B6E43AB80][00000B1B6E8A5000 50] iPhone7Plus, [00000B1B6E436200][00000B1B6E8A7800 50] iPhoneSE, [00000B1B6E437E00][00000B1B6E8AA000 50] iPhone8, [00000B1B6E4340C0][00000B1B6E8AC800 50] iPhone8Plus, [00000B1B6E43B7C0][00000B1B6E7A2800 50] iPhoneX, [00000B1B6E436900][00000B1B6E860000 50] iPhoneXS, [00000B1B6E435E80][00000B1B6E865000 50] iPhoneXSMax, [00000B1B6E43C780][00000B1B6E867800 50] iPhoneXR, [00000B1B6E43B0C0][00000B1B6E86A000 50] iPhone11, [00000B1B6E437540][00000B1B6E86C800 50] iPhone11Pro, [00000B1B6E43C5C0][00000B1B6E8A2800 50] iPhone11ProMax, [00000B1B6E43C240][00000B1B6E870000 50] iPhoneSE2, [00000B1B6E437700][00000B1B6E875000 50] iPhone12Mini, [00000B1B6E438880][00000B1B6E877800 50] iPhone12, [00000B1B6E43B280][00000B1B6E87A000 50] iPhone12Pro, [00000B1B6E434440][00000B1B6E87C800 50] iPhone12ProMax, [00000B1B6E438500][00000B1B6E862800 50] iPhone13Mini, [00000B1B6E436580][00000B1B6E810000 50] iPhone13, [00000B1B6E43D900][00000B1B6E815000 50] iPhone13Pro, [00000B1B6E43B440][00000B1B6E817800 50] iPhone13ProMax, [00000B1B6E436E40][00000B1B6E81A000 50] iPadPro105, [00000B1B6E43BD00][00000B1B6E81C800 50] iPadPro129, [00000B1B6E439BC0][00000B1B6E872800 50] iPadPro97, [00000B1B6E435B00][00000B1B6E820000 50] iPadPro2_129, [00000B1B6E439140][00000B1B6E825000 50] iPad5, [00000B1B6E436740][00000B1B6E827800 50] iPad6, [00000B1B6E4378C0][00000B1B6E82A000 50] iPad7, [00000B1B6E43C400][00000B1B6E82C800 50] iPad8, [00000B1B6E437000][00000B1B6E812800 50] iPad9, [00000B1B6E434D00][00000B1B6E830000 50] iPadPro11, [00000B1B6E437FC0][00000B1B6E835000 50] iPadPro2_11, [00000B1B6E43DAC0][00000B1B6E837800 50] iPadPro3_11, [00000B1B6E43A9C0][00000B1B6E83A000 50] iPadPro3_129, [00000B1B6E435940][00000B1B6E83C800 50] iPadPro4_129, [00000B1B6E436AC0][00000B1B6E822800 50] iPadPro5_129, [00000B1B6E43D3C0][00000B1B6E8B0000 50] AppleTV, [00000B1B6E43B980][00000B1B6E8B5000 50] AppleTV4K, [00000B1B6E43BB40][00000B1B6E8B7800 50] TVOS, [00000B1B6E43E8C0][00000B1B6E8BC800 50] Mac, [00000B1B6E43E700][00000B1B6E8BA000 50] MacEditor, [00000B1B6E43AF00][00000B1B6E832800 50] MacClient, [00000B1B6E43E1C0][00000B1B6E8C0000 50] MacServer, [00000B1B6E43EFC0][00000B1B6E8C7800 50] Linux, [00000B1B6E43F340][00000B1B6E8C5000 50] LinuxEditor, [00000B1B6E43A2C0][00000B1B6E8CA000 50] LinuxArm64Editor, [00000B1B6E43C080][00000B1B6E8CC800 50] LinuxArm64, [00000B1B6E439D80][00000B1B6E8B2800 50] LinuxClient, [00000B1B6E43F500][00000B1B6E8D0000 50] LinuxArm64Client, [00000B1B6E43EE00][00000B1B6E8D5000 50] LinuxServer, [00000B1B6E43B600][00000B1B6E8D7800 50] LinuxArm64Server, [00000B1B6E43AD40][00000B1B6E8DA000 50] Android, [00000B1B6E43BEC0][00000B1B6E8DC800 50] Android_Preview_OpenGL, [00000B1B6E434B40][00000B1B6E8C2800 50] Android_Preview_Vulkan, [00000B1B6E439680][00000B1B6E8E0000 50] Android_Low, [00000B1B6E43F180][00000B1B6E8E5000 50] Android_Mid, [00000B1B6E439840][00000B1B6E8E7800 50] Android_High, [00000B1B6E43D580][00000B1B6E8EA000 50] Android_Default, [00000B1B6E43D040][00000B1B6E8EC800 50] Android_Adreno4xx, [00000B1B6E43DE40][00000B1B6E8D2800 50] Android_Adreno5xx_Low, [00000B1B6E437A80][00000B1B6E8F0000 50] Android_Adreno5xx, [00000B1B6E437380][00000B1B6E8F5000 50] Android_Adreno6xx, [00000B1B6E438340][00000B1B6E8F7800 50] Android_Adreno6xx_Vulkan, [00000B1B6E43D740][00000B1B6E8FA000 50] Android_Adreno7xx, [00000B1B6E439A00][00000B1B6E8FC800 50] Android_Adreno7xx_Vulkan, [00000B1B6E43C940][00000B1B6E8E2800 50] Android_Mali_T6xx, [00000B1B6E439F40][00000B1B6E900000 50] Android_Mali_T7xx, [00000B1B6E43CCC0][00000B1B6E905000 50] Android_Mali_T8xx, [00000B1B6E437C40][00000B1B6E907800 50] Android_Mali_G71, [00000B1B6E435400][00000B1B6E90A000 50] Android_Mali_G72, [00000B1B6E438C00][00000B1B6E90C800 50] Android_Mali_G72_Vulkan, [00000B1B6E43E000][00000B1B6E8F2800 50] Android_Mali_G76, [00000B1B6E930000][00000B1B6E910000 50] Android_Mali_G76_Vulkan, [00000B1B6E932300][00000B1B6E915000 50] Android_Mali_G77, [00000B1B6E932140][00000B1B6E917800 50] Android_Mali_G77_Vulkan, [00000B1B6E931F80][00000B1B6E91A000 50] Android_Mali_G78, [00000B1B6E931DC0][00000B1B6E91C800 50] Android_Mali_G78_Vulkan, [00000B1B6E9324C0][00000B1B6E902800 50] Android_Mali_G710, [00000B1B6E930380][00000B1B6E920000 50] Android_Mali_G710_Vulkan, [00000B1B6E930E00][00000B1B6E925000 50] Android_Xclipse_920, [00000B1B6E9308C0][00000B1B6E927800 50] Android_Xclipse_920_Vulkan, [00000B1B6E931500][00000B1B6E92A000 50] Android_Vulkan_SM5, [00000B1B6E932D80][00000B1B6E92C800 50] Android_PowerVR_G6xxx, [00000B1B6E931A40][00000B1B6E912800 50] Android_PowerVR_GT7xxx, [00000B1B6E931880][00000B1B6E940000 50] Android_PowerVR_GE8xxx, [00000B1B6E932BC0][00000B1B6E945000 50] Android_PowerVR_GM9xxx, [00000B1B6E932840][00000B1B6E947800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B1B6E9316C0][00000B1B6E94A000 50] Android_TegraK1, [00000B1B6E933100][00000B1B6E94C800 50] Android_Unknown_Vulkan, [00000B1B6E933640][00000B1B6E922800 50] Oculus_Quest, [00000B1B6E932F40][00000B1B6E950000 50] Oculus_Quest2, [00000B1B6E930A80][00000B1B6E955000 50] HoloLens, 
+[2023.10.17-16.53.22:339][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.10.17-16.53.22:348][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.10.17-16.53.22:348][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.10.17-16.53.22:348][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.10.17-16.53.22:348][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.10.17-16.53.22:348][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.10.17-16.53.22:348][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.10.17-16.53.22:398][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.10.17-16.53.22:647][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.10.17-16.53.22:647][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.10.17-16.53.22:647][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.10.17-16.53.22:647][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.10.17-16.53.22:647][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.10.17-16.53.22:686][  0]LogNetVersion: PC_Prototypes 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3753251729)
+[2023.10.17-16.53.22:904][  0]LogSlate: Border
+[2023.10.17-16.53.22:904][  0]LogSlate: BreadcrumbButton
+[2023.10.17-16.53.22:904][  0]LogSlate: Default
+[2023.10.17-16.53.22:904][  0]LogSlate: Icons.Save
+[2023.10.17-16.53.22:904][  0]LogSlate: Icons.Toolbar.Settings
+[2023.10.17-16.53.22:905][  0]LogSlate: ListView
+[2023.10.17-16.53.22:905][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.10.17-16.53.22:905][  0]LogSlate: SoftwareCursor_Grab
+[2023.10.17-16.53.22:905][  0]LogSlate: TableView.DarkRow
+[2023.10.17-16.53.22:905][  0]LogSlate: TableView.Row
+[2023.10.17-16.53.22:905][  0]LogSlate: TreeView
+[2023.10.17-16.53.23:345][  0]SourceControl: Source control is disabled
+[2023.10.17-16.53.23:397][  0]SourceControl: Source control is disabled
+[2023.10.17-16.53.23:397][  0]SourceControl: Source control is disabled
+[2023.10.17-16.53.23:551][  0]LogUObjectArray: 20582 objects as part of root set at end of initial load.
+[2023.10.17-16.53.23:552][  0]LogUObjectAllocator: 5610888 out of 0 bytes used by permanent object pool.
+[2023.10.17-16.53.23:552][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.10.17-16.53.24:393][  0]LogPython: Using Python 3.9.7
+[2023.10.17-16.53.25:202][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BD0082EE4075799AFE606884F5922D8E | Instance: 04FFAAB64C612EAA1C96DB832D7E4591 (DESKTOP-VST54H2-2268).
+[2023.10.17-16.53.25:388][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.10.17-16.53.25:399][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.10.17-16.53.26:416][  0]LogOpenImageDenoise: OIDN starting up
+[2023.10.17-16.53.26:606][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/MetaHuman/IdentityTemplate/SM_MetaHumanIdentity_Archetype) ...
+[2023.10.17-16.53.26:789][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.10.17-16.53.26:819][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.17-16.53.26:820][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: URL: C:\Users\Nate\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.10.17-16.53.26:977][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.10.17-16.53.27:541][  0]LogUProjectInfo: Found projects:
+[2023.10.17-16.53.27:571][  0]LogCollectionManager: Loaded 0 collections in 0.002943 seconds
+[2023.10.17-16.53.27:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Collections/' took 0.00s
+[2023.10.17-16.53.27:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Collections/' took 0.00s
+[2023.10.17-16.53.27:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Collections/' took 0.00s
+[2023.10.17-16.53.28:086][  0]LogEngine: Initializing Engine...
+[2023.10.17-16.53.28:102][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.10.17-16.53.28:106][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.10.17-16.53.28:402][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.10.17-16.53.28:405][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-16.53.28:426][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.53.28:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.10.17-16.53.28:482][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.10.17-16.53.28:501][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.10.17-16.53.28:502][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.10.17-16.53.28:502][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.10.17-16.53.28:505][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.10.17-16.53.28:505][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.17-16.53.28:506][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.17-16.53.28:507][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.17-16.53.28:508][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.17-16.53.28:508][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.17-16.53.28:508][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.17-16.53.28:524][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.17-16.53.28:565][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech PRO X Gaming Headset)
+[2023.10.17-16.53.28:567][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.17-16.53.28:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.17-16.53.28:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.17-16.53.28:572][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.10.17-16.53.28:572][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.10.17-16.53.28:574][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.17-16.53.28:574][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.10.17-16.53.28:574][  0]LogInit: FAudioDevice initialized.
+[2023.10.17-16.53.28:574][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.10.17-16.53.28:574][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.10.17-16.53.28:574][  0]LogInit: Texture streaming: Enabled
+[2023.10.17-16.53.28:603][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.10.17-16.53.28:610][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.10.17-16.53.28:631][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.10.17-16.53.28:641][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.10.17-16.53.28:641][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: PC_PrototypesEditor Win64 Development
+[2023.10.17-16.53.31:581][  0]LogLiveCoding: Display: First instance in process group "UE_PC_Prototypes_0xdb86ad08", spawning console
+[2023.10.17-16.53.31:581][  0]LogLiveCoding: Display: Waiting for server
+[2023.10.17-16.53.31:581][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.10.17-16.53.31:606][  0]LogInit: Transaction tracking system initialized
+[2023.10.17-16.53.31:696][  0]BlueprintLog: New page: Editor Load
+[2023.10.17-16.53.31:936][  0]LocalizationService: Localization service is disabled
+[2023.10.17-16.53.31:995][  0]TimingProfiler: Initialize
+[2023.10.17-16.53.31:996][  0]TimingProfiler: OnSessionChanged
+[2023.10.17-16.53.31:997][  0]LoadingProfiler: Initialize
+[2023.10.17-16.53.31:997][  0]LoadingProfiler: OnSessionChanged
+[2023.10.17-16.53.31:999][  0]NetworkingProfiler: Initialize
+[2023.10.17-16.53.32:001][  0]NetworkingProfiler: OnSessionChanged
+[2023.10.17-16.53.32:001][  0]MemoryProfiler: Initialize
+[2023.10.17-16.53.32:001][  0]MemoryProfiler: OnSessionChanged
+[2023.10.17-16.53.32:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Content/' took 0.02s
+[2023.10.17-16.53.32:762][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.10.17-16.53.32:831][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.10.17-16.53.32:838][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.160
+[2023.10.17-16.53.32:841][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.17-16.53.32:842][  0]LightingResults: New page: Lighting Build
+[2023.10.17-16.53.32:852][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-16.53.32:854][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-16.53.32:855][  0]MapCheck: New page: Map Check
+[2023.10.17-16.53.32:855][  0]LightingResults: New page: Lighting Build
+[2023.10.17-16.53.32:871][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-16.53.32:882][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.17-16.53.33:002][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2023.10.17-16.53.33:003][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.10.17-16.53.33:003][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.53.33:003][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2023.10.17-16.53.33:053][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.17-16.53.33:066][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.17-16.53.33:067][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.17-16.53.33:068][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.432ms to complete.
+[2023.10.17-16.53.33:068][  0]LogFileHelpers: Loading map 'MainMenuMap' took 0.229
+[2023.10.17-16.53.33:109][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.434
+[2023.10.17-16.53.33:109][  0]LogShaderCompilers: Display: ================================================
+[2023.10.17-16.53.33:109][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.17-16.53.33:109][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.17-16.53.33:110][  0]LogShaderCompilers: Display: ================================================
+[2023.10.17-16.53.33:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-16.53.33:264][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-16.53.33:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-16.53.33:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.17-16.53.33:330][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:330][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:333][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:333][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:335][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:335][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:337][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:337][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:341][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:341][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:343][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:343][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:346][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:346][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:347][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:347][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:349][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:349][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:351][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.10.17-16.53.33:351][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.10.17-16.53.33:352][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.10.17-16.53.33:829][  0]LogSlate: Took 0.000864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.17-16.53.33:832][  0]LogSlate: Took 0.000950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.17-16.53.33:837][  0]LogSlate: Took 0.000907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.17-16.53.33:839][  0]LogSlate: Took 0.000556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.17-16.53.33:893][  0]LogViewport: Scene viewport resized to 1170x585, mode Windowed.
+[2023.10.17-16.53.36:549][  0]LogStall: Startup...
+[2023.10.17-16.53.36:553][  0]LogStall: Startup complete.
+[2023.10.17-16.53.36:567][  0]LogLoad: (Engine Initialization) Total time: 22.89 seconds
+[2023.10.17-16.53.36:567][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.17-16.53.36:609][  0]LogAssetRegistry: Asset discovery search completed in 14.8541 seconds
+[2023.10.17-16.53.36:620][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.10.17-16.53.36:648][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.17-16.53.36:703][  1]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 18.382338
+[2023.10.17-16.53.37:262][  2]LogSlate: Took 0.000708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-16.53.38:121][  4]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 19.777716
+[2023.10.17-16.53.38:122][  4]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2023.10.17-16.53.38:122][  4]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2023.10.17-16.53.38:123][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19.800558
+[2023.10.17-16.53.39:458][  8]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2023.10.17-16.53.40:130][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 21.474749
+[2023.10.17-16.53.40:132][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 2088937986
+[2023.10.17-16.53.40:132][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21.474749, Update Interval: 332.853790
+[2023.10.17-16.53.55:586][ 62]LogSlate: Window 'Output Log' being destroyed
+[2023.10.17-16.53.55:592][ 62]LogSlate: Window 'Output Log' being destroyed
+[2023.10.17-16.53.56:646][127]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.BP_SessionPC) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.10.17-16.53.56:650][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.BP_SessionPC
+[2023.10.17-16.53.56:651][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.53.57:824][127]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.BP_SessionGameMode) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.10.17-16.53.57:965][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.BP_SessionGameMode
+[2023.10.17-16.53.57:965][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.53.58:299][127]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Developers/ishum/BP_FP_GM_Networked.BP_FP_GM_Networked) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.10.17-16.53.58:347][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/ishum/BP_FP_GM_Networked.BP_FP_GM_Networked
+[2023.10.17-16.53.58:347][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.54.37:175][547]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-16.54.37:175][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-16.54.37:209][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/ishum/BP_FP_GM_Networked.BP_FP_GM_Networked
+[2023.10.17-16.54.37:209][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.54.37:550][547]LogSlate: Took 0.001083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.17-16.54.39:062][688]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-16.54.39:062][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-16.54.39:095][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.BP_SessionGameMode
+[2023.10.17-16.54.39:095][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.54.58:761][508]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Developers/Nate/Blueprints/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2023.10.17-16.54.58:762][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.54.58:773][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.54.58:781][508]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.17-16.54.59:146][508]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-16.54.59:146][508]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-16.54.59:279][508]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.10.17-16.55.05:511][692]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.17-16.55.20:743][ 81]LogDerivedDataCache: C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.637 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.17-16.55.28:797][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/BP_EOSGameInstance.BP_EOSGameInstance
+[2023.10.17-16.55.28:798][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-16.59.12:660][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 354.341858
+[2023.10.17-16.59.12:916][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-16.59.12:916][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 354.589081, Update Interval: 322.777191
+[2023.10.17-17.04.10:579][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.10.17-17.04.10:581][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/Nate/Blueprints/MainMenu/MainMenuMap' took 0.096
+[2023.10.17-17.04.10:582][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/Nate/Blueprints/BP_EOSGameInstance] ([2] browsable assets)...
+[2023.10.17-17.04.10:582][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/BP_EOSGameInstance]
+[2023.10.17-17.04.10:591][737]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.008624 seconds
+[2023.10.17-17.04.10:606][737]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/BP_EOSGameInstance_Auto1
+[2023.10.17-17.04.10:606][737]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameInstance_Auto17882F1E7470754A4E5FC4DA1F4196F44.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/BP_EOSGameInstance_Auto1.uasset'
+[2023.10.17-17.04.10:607][737]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.10.17-17.04.38:479][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 680.159241
+[2023.10.17-17.04.39:495][824]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.04.39:495][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 680.836121, Update Interval: 325.842468
+[2023.10.17-17.10.10:951][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1012.631165
+[2023.10.17-17.10.11:963][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.10.11:964][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.306335, Update Interval: 309.666443
+[2023.10.17-17.15.33:731][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1335.411987
+[2023.10.17-17.15.34:749][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.15.34:749][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1336.091675, Update Interval: 302.122253
+[2023.10.17-17.18.58:566][420]LogSlate: Took 0.000722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.10.17-17.19.49:579][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.17-17.19.49:581][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/Nate/Blueprints/MainMenu/MainMenuMap' took 0.072
+[2023.10.17-17.19.49:581][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode] ([2] browsable assets)...
+[2023.10.17-17.19.49:581][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode]
+[2023.10.17-17.19.49:584][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode_Auto2
+[2023.10.17-17.19.49:584][871]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_SessionGameMode_Auto220A99A394A754C9AF17ADFA76577A9E6.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode_Auto2.uasset'
+[2023.10.17-17.19.49:585][871]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.10.17-17.21.05:225][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1666.909058
+[2023.10.17-17.21.06:232][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.21.06:232][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1667.578613, Update Interval: 322.570282
+[2023.10.17-17.27.05:616][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2027.305786
+[2023.10.17-17.27.05:886][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.27.05:886][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2027.566284, Update Interval: 337.345490
+[2023.10.17-17.30.23:578][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.17-17.30.23:580][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/Nate/Blueprints/MainMenu/MainMenuMap' took 0.064
+[2023.10.17-17.30.23:580][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode] ([2] browsable assets)...
+[2023.10.17-17.30.23:580][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode]
+[2023.10.17-17.30.23:585][534]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode_Auto3
+[2023.10.17-17.30.23:585][534]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_SessionGameMode_Auto3EF89ED4943C79A50BEE96BB14A318401.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode_Auto3.uasset'
+[2023.10.17-17.30.23:591][534]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.10.17-17.33.21:287][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2402.979248
+[2023.10.17-17.33.22:299][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.33.22:299][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2403.652832, Update Interval: 346.982635
+[2023.10.17-17.39.41:794][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2783.479980
+[2023.10.17-17.39.42:807][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.39.42:807][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2784.156006, Update Interval: 343.018280
+[2023.10.17-17.46.16:589][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3178.273193
+[2023.10.17-17.46.17:604][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.46.17:604][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3178.950439, Update Interval: 324.610138
+[2023.10.17-17.46.57:293][855]LogSlate: Window 'Delete Variable' being destroyed
+[2023.10.17-17.46.59:252][965]LogSlate: Window 'Delete Variable' being destroyed
+[2023.10.17-17.47.20:031][891]LogSlate: Window 'BP_EOSGameInstance' being destroyed
+[2023.10.17-17.47.20:037][891]LogSlate: Window 'BP_EOSGameInstance' being destroyed
+[2023.10.17-17.47.20:042][891]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.47.20:042][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.47.20:158][891]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.17-17.47.20:158][891]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.47.20:158][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.47.20:231][891]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.17-17.47.20:231][891]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.47.20:231][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.47.20:301][891]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.47.20:301][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.47.20:310][891]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.47.20:310][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.47.20:364][891]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.47.20:365][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.47.25:548][447]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-17.47.25:548][447]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-17.47.37:117][812]LogContentBrowser: Attempting asset rename: BP_MainMenuGM -> BP_EOSMainMenuGM
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.BP_EOSMainMenuGM:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.BP_EOSMainMenuGM_C' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.BP_EOSMainMenuGM:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.BP_EOSMainMenuGM:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.SKEL_BP_EOSMainMenuGM_C:ReceiveBeginPlay' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.SKEL_BP_EOSMainMenuGM_C:ReceiveTick' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.SKEL_BP_EOSMainMenuGM_C:UserConstructionScript' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:775][812]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.SKEL_BP_EOSMainMenuGM_C' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.PackageMetaData'
+[2023.10.17-17.47.37:834][812]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM
+[2023.10.17-17.47.37:834][812]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSMainMenuGM35DCD9B84F974E00D574F9A7DC7D4E28.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.uasset'
+[2023.10.17-17.47.37:836][812]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM
+[2023.10.17-17.47.37:837][812]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_MainMenuGM8A30BCDE4F673788C5186E97A55BCAE9.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.uasset'
+[2023.10.17-17.47.38:232][812]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-17.47.38:232][812]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.BP_EOSMainMenuGM
+[2023.10.17-17.47.38:233][812]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.BP_MainMenuGM
+[2023.10.17-17.47.38:233][812]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.Default__BP_MainMenuGM_C
+[2023.10.17-17.47.38:233][812]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuGM.BP_MainMenuGM_C
+[2023.10.17-17.47.47:302][862]LogContentBrowser: Attempting asset rename: BP_MainMenuPC -> BP_EOSMainMenuPC
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.BP_EOSMainMenuPC_C' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.BP_EOSMainMenuPC:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.BP_EOSMainMenuPC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.SKEL_BP_EOSMainMenuPC_C:ReceiveBeginPlay' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.SKEL_BP_EOSMainMenuPC_C:UserConstructionScript' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.SKEL_BP_EOSMainMenuPC_C' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.47:961][862]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.BP_EOSMainMenuPC_C:ReceiveBeginPlay' ref from Metadata '/Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.PackageMetaData'
+[2023.10.17-17.47.48:017][862]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC
+[2023.10.17-17.47.48:017][862]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSMainMenuPCAC0DB46B44F5555A7BF0DBB5DEFD0341.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.uasset'
+[2023.10.17-17.47.48:019][862]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC
+[2023.10.17-17.47.48:020][862]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_MainMenuPCA8E3F2BB4470961264B53EB5D8E688C7.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.uasset'
+[2023.10.17-17.47.48:412][862]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-17.47.48:412][862]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuPC.BP_EOSMainMenuPC
+[2023.10.17-17.47.48:412][862]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.BP_MainMenuPC
+[2023.10.17-17.47.48:412][862]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.Default__BP_MainMenuPC_C
+[2023.10.17-17.47.48:412][862]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/BP_MainMenuPC.BP_MainMenuPC_C
+[2023.10.17-17.47.54:175][510]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-17.47.54:175][510]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-17.48.07:905][104]LogContentBrowser: Attempting asset rename: MainMenuMap -> EOSLoginLevel
+[2023.10.17-17.48.21:929][104]LogSlate: Window 'Message' being destroyed
+[2023.10.17-17.48.21:937][104]Message dialog closed, result: Yes, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+MainMenuMap (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2023.10.17-17.48.22:627][104]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel_BuiltData
+[2023.10.17-17.48.22:627][104]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/EOSLoginLevel_BuiltData1730C04747852FCFD3F0758B50E7B522.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel_BuiltData.uasset'
+[2023.10.17-17.48.22:690][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.17-17.48.22:700][104]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel
+[2023.10.17-17.48.22:700][104]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/EOSLoginLevelB0CDC5FA4D646F1F6052149F03235E9C.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel.umap'
+[2023.10.17-17.48.22:709][104]LogFileHelpers: No new changes to save!
+[2023.10.17-17.48.22:882][104]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2023.10.17-17.48.22:882][104]SourceControl: Error: PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel_BuiltData.uasset
+[2023.10.17-17.48.22:882][104]SourceControl: Error: hint: Use -f if you really want to add them.
+[2023.10.17-17.48.22:882][104]SourceControl: Error: hint: Turn this message off by running
+[2023.10.17-17.48.22:882][104]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2023.10.17-17.48.22:886][104]LogFileHelpers: Saving map 'EOSLoginLevel' took 0.258
+[2023.10.17-17.48.22:887][104]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/MainMenuMap
+[2023.10.17-17.48.22:888][104]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/MainMenuMapD70671F64B46BC7359A9BCA5EF159821.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/MainMenuMap.umap'
+[2023.10.17-17.48.23:293][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.17-17.48.23:322][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.17-17.48.23:345][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.17-17.48.23:352][104]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-17.48.23:352][104]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel_BuiltData.EOSLoginLevel_BuiltData
+[2023.10.17-17.48.23:352][104]LogContentValidation: Display: Validating World /Game/Developers/Nate/Blueprints/MainMenu/EOSLoginLevel.EOSLoginLevel
+[2023.10.17-17.48.23:352][104]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/MainMenu/MainMenuMap.MainMenuMap
+[2023.10.17-17.48.27:793][512]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.10.17-17.48.27:896][512]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.10.17-17.48.28:724][513]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Nate/Documents/SourceTree'
+[2023.10.17-17.48.31:662][782]LogLinker: Warning: Failed to load '/Game/Developers/Nate/Blueprints/MainMenu/GM_MainMenu': Can't find file.
+[2023.10.17-17.48.31:662][782]LogLinker: Warning: Failed to load '/Game/Developers/Nate/Blueprints/MainMenu/GM_MainMenu': Can't find file.
+[2023.10.17-17.48.31:662][782]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Developers/Nate/Blueprints/MainMenu/GM_MainMenu.GM_MainMenu_C'
+[2023.10.17-17.48.33:954][982]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.17-17.48.37:739][299]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.17-17.48.37:746][299]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.17-17.48.39:765][504]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/MainMenu/WBP_MainMenuHUD.WBP_MainMenuHUD
+[2023.10.17-17.48.39:766][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.48.47:582][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/BP_EOSGameInstance.BP_EOSGameInstance
+[2023.10.17-17.48.47:583][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.49.18:019][374]BlueprintLog: New page: Compile BP_EOSGameInstance
+[2023.10.17-17.49.18:147][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.10.17-17.49.42:563][155]LogContentBrowser: Attempting asset rename: GameplaySessionMap -> GameplaySessionMap
+[2023.10.17-17.49.43:525][229]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-17.49.43:525][229]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-17.49.50:600][ 65]LogContentBrowser: Attempting asset rename: BP_SessionGameMode -> BP_EOSGameMode
+[2023.10.17-17.49.51:235][ 65]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode_C' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.PackageMetaData'
+[2023.10.17-17.49.51:236][ 65]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.PackageMetaData'
+[2023.10.17-17.49.51:236][ 65]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.SKEL_BP_EOSGameMode_C' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.PackageMetaData'
+[2023.10.17-17.49.51:236][ 65]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.SKEL_BP_EOSGameMode_C:UserConstructionScript' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.PackageMetaData'
+[2023.10.17-17.49.51:236][ 65]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.SKEL_BP_EOSGameMode_C:K2_OnLogout' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.PackageMetaData'
+[2023.10.17-17.49.51:236][ 65]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.SKEL_BP_EOSGameMode_C:K2_PostLogin' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.PackageMetaData'
+[2023.10.17-17.49.51:280][ 65]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode
+[2023.10.17-17.49.51:280][ 65]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameMode86D391D640FADB81360520A38FE6B54B.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.uasset'
+[2023.10.17-17.49.51:282][ 65]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode
+[2023.10.17-17.49.51:283][ 65]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_SessionGameMode3DD6CB6A415CB0D000AF8F898B949260.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.uasset'
+[2023.10.17-17.49.51:692][ 65]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-17.49.51:692][ 65]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode
+[2023.10.17-17.49.51:692][ 65]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.BP_SessionGameMode
+[2023.10.17-17.49.51:692][ 65]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.Default__BP_SessionGameMode_C
+[2023.10.17-17.49.51:692][ 65]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionGameMode.BP_SessionGameMode_C
+[2023.10.17-17.50.12:006][334]LogContentBrowser: Attempting asset rename: BP_SessionPC -> BP_EOSPlayerController
+[2023.10.17-17.50.12:667][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController_C' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:667][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:667][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:667][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:667][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.SKEL_BP_EOSPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:668][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.SKEL_BP_EOSPlayerController_C:ReceiveTick' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:668][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.SKEL_BP_EOSPlayerController_C:UserConstructionScript' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:668][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.SKEL_BP_EOSPlayerController_C' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:668][334]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.PackageMetaData'
+[2023.10.17-17.50.12:730][334]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController
+[2023.10.17-17.50.12:730][334]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSPlayerControllerA810B804434CA284D78693A7077AD142.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.uasset'
+[2023.10.17-17.50.12:732][334]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC
+[2023.10.17-17.50.12:733][334]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_SessionPCF11D7C624561911D936B08B8D4796C87.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.uasset'
+[2023.10.17-17.50.13:133][334]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-17.50.13:134][334]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController
+[2023.10.17-17.50.13:134][334]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.BP_SessionPC
+[2023.10.17-17.50.13:134][334]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.Default__BP_SessionPC_C
+[2023.10.17-17.50.13:134][334]LogContentValidation: Display: Validating ObjectRedirector /Game/Developers/Nate/Blueprints/Gameplay/BP_SessionPC.BP_SessionPC_C
+[2023.10.17-17.50.24:796][654]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/ishum/BP_FP_GM_Networked.BP_FP_GM_Networked
+[2023.10.17-17.50.24:797][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.50.30:834][206]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.50.30:834][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.50.42:849][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.17-17.50.44:077][521]LogSlate: Window 'Save Content' being destroyed
+[2023.10.17-17.50.44:385][521]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/BP_EOSGameInstance
+[2023.10.17-17.50.44:386][521]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameInstanceE3E7E3E746EE9B8E8FA0A1AEFAAE66FA.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/BP_EOSGameInstance.uasset'
+[2023.10.17-17.50.44:390][521]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode
+[2023.10.17-17.50.44:390][521]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameMode954A2AC7409C891CF063A8833B0BAA7F.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.uasset'
+[2023.10.17-17.50.44:393][521]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM
+[2023.10.17-17.50.44:394][521]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSMainMenuGM2DDDE15647F25ABFB92B3B8C31248819.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.uasset'
+[2023.10.17-17.50.44:397][521]LogSavePackage: Moving output files for package: /Game/Developers/ishum/BP_FP_GM_Networked
+[2023.10.17-17.50.44:397][521]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_FP_GM_NetworkedF177EEDB46E1B2720174C99DF95DE2CD.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/ishum/BP_FP_GM_Networked.uasset'
+[2023.10.17-17.50.44:478][521]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Developers/ishum/Maps/FP_Map_NetworkedCube.FP_Map_NetworkedCube
+[2023.10.17-17.50.44:478][521]Cmd: MAP LOAD FILE="../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/ishum/Maps/FP_Map_NetworkedCube.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.17-17.50.44:478][521]LightingResults: New page: Lighting Build
+[2023.10.17-17.50.44:478][521]LoadErrors: New page: Loading map: FP_Map_NetworkedCube.umap
+[2023.10.17-17.50.44:480][521]LogWorld: UWorld::CleanupWorld for EOSLoginLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.50.44:480][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.50.44:480][521]MapCheck: New page: Map Check
+[2023.10.17-17.50.44:480][521]LightingResults: New page: Lighting Build
+[2023.10.17-17.50.44:511][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.17-17.50.44:516][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.17-17.50.44:576][521]LogWorld: UWorld::CleanupWorld for FP_Map_NetworkedCube, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.50.44:576][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.50.44:578][521]LogWorld: UWorld::CleanupWorld for GameplaySessionMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.50.44:578][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.50.44:611][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.17-17.50.44:643][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.17-17.50.44:651][521]LogAudio: Display: Audio Device (ID: 1) registered with world 'FP_Map_NetworkedCube'.
+[2023.10.17-17.50.44:660][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.50.44:660][521]LogAIModule: Creating AISystem for world FP_Map_NetworkedCube
+[2023.10.17-17.50.44:668][521]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.17-17.50.44:669][521]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.10.17-17.50.44:858][521]LogWorldPartition: Display: WorldPartition initialize took 189 ms
+[2023.10.17-17.50.44:909][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.17-17.50.44:947][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.17-17.50.44:954][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.17-17.50.44:955][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.444ms to complete.
+[2023.10.17-17.50.44:955][521]LogFileHelpers: Loading map 'FP_Map_NetworkedCube' took 0.476
+[2023.10.17-17.50.44:977][521]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-17.50.44:977][521]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/BP_EOSGameInstance.BP_EOSGameInstance
+[2023.10.17-17.50.44:977][521]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/MainMenu/BP_EOSMainMenuGM.BP_EOSMainMenuGM
+[2023.10.17-17.50.44:977][521]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode
+[2023.10.17-17.50.44:977][521]LogContentValidation: Display: Validating Blueprint /Game/Developers/ishum/BP_FP_GM_Networked.BP_FP_GM_Networked
+[2023.10.17-17.50.49:481][983]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-17.51.10:753][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/ishum/FP_Network_CharController.FP_Network_CharController
+[2023.10.17-17.51.10:753][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.51.15:526][924]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.51.15:526][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.51.16:519][ 19]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.51.16:519][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.51.19:425][297]LogSlate: Window 'WBP_MainMenuHUD' being destroyed
+[2023.10.17-17.51.19:434][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.17-17.51.19:434][297]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.51.19:435][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.52.06:492][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode
+[2023.10.17-17.52.06:493][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.52.10:576][211]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode
+[2023.10.17-17.52.10:576][211]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameMode359BFD3A46153B2C130BC7ADB5E81D40.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.uasset'
+[2023.10.17-17.52.10:590][211]AssetCheck: New page: Asset Save: BP_EOSGameMode
+[2023.10.17-17.52.10:590][211]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode
+[2023.10.17-17.52.13:279][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController
+[2023.10.17-17.52.13:280][486]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.52.32:055][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3553.751953
+[2023.10.17-17.52.32:141][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.52.32:142][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3553.829346, Update Interval: 322.017273
+[2023.10.17-17.55.20:275][285]LogDerivedDataCache: C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.164 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.17-17.56.18:147][ 82]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-17.56.24:908][ 82]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.17-17.56.24:916][ 82]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.17-17.56.24:921][ 82]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.17-17.56.24:932][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.17-17.56.31:409][856]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EOSGameState
+[2023.10.17-17.56.31:539][856]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.17-17.56.50:144][134]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.BP_EOSGameState
+[2023.10.17-17.56.50:145][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-17.56.50:560][134]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.10.17-17.58.31:659][610]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-17.58.31:659][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-17.58.43:622][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3925.322266
+[2023.10.17-17.58.43:876][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-17.58.43:876][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3925.566162, Update Interval: 322.663666
+[2023.10.17-18.02.14:419][315]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.02.16:791][315]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.10.17-18.02.16:803][315]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.17-18.02.16:807][315]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.17-18.02.16:820][316]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.17-18.02.45:708][763]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_EOSInterface
+[2023.10.17-18.02.45:826][763]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.17-18.02.47:449][952]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.WBP_EOSInterface
+[2023.10.17-18.02.47:449][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.02.47:462][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.02.47:829][952]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.02.47:829][952]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.03.29:987][129]LogSlate: Took 0.013412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.17-18.04.42:662][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.10.17-18.04.42:667][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/ishum/Maps/FP_Map_NetworkedCube_Auto4
+[2023.10.17-18.04.42:667][206]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/FP_Map_NetworkedCube_Auto4A19AE3A64AF37994A06601B4C27FBC7A.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/ishum/Maps/FP_Map_NetworkedCube_Auto4.umap'
+[2023.10.17-18.04.42:671][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/ishum/Maps/FP_Map_NetworkedCube' took 0.117
+[2023.10.17-18.04.42:671][206]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2023.10.17-18.04.42:671][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode] ([2] browsable assets)...
+[2023.10.17-18.04.42:671][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode]
+[2023.10.17-18.04.42:676][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode_Auto4
+[2023.10.17-18.04.42:677][206]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameMode_Auto43B7FFE384BF43E8A4EA6E38FB7AF14C6.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode_Auto4.uasset'
+[2023.10.17-18.04.42:677][206]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.10.17-18.04.55:971][501]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface
+[2023.10.17-18.04.55:971][501]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSInterface7CF19B184FEE72A4EC90979CC52D5C73.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.uasset'
+[2023.10.17-18.04.56:135][501]AssetCheck: New page: Asset Save: WBP_EOSInterface
+[2023.10.17-18.04.56:135][501]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.WBP_EOSInterface
+[2023.10.17-18.04.56:533][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4298.250488
+[2023.10.17-18.04.56:809][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.04.56:809][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4298.514160, Update Interval: 334.249084
+[2023.10.17-18.04.57:161][586]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.04.57:161][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.04.57:169][586]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.04.57:170][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.04.59:862][855]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-18.04.59:862][855]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.10.17-18.05.08:770][913]LogContentBrowser: Attempting asset rename: WBP_EOSInterface -> WBP_EOSPlayerList
+[2023.10.17-18.05.09:456][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.SKEL_WBP_EOSPlayerList_C' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:456][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList_C' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:457][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:457][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:457][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:457][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.SKEL_WBP_EOSPlayerList_C:PreConstruct' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:457][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.SKEL_WBP_EOSPlayerList_C:Construct' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:457][913]LogMetaData: Removing '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.SKEL_WBP_EOSPlayerList_C:Tick' ref from Metadata '/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.PackageMetaData'
+[2023.10.17-18.05.09:516][913]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList
+[2023.10.17-18.05.09:516][913]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayerList19AE06504B7A856699EE1B87E001DAD1.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.uasset'
+[2023.10.17-18.05.09:994][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.17-18.05.10:042][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.17-18.05.10:076][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.10.17-18.05.10:229][913]SourceControl: rm 'PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSInterface.uasset'
+[2023.10.17-18.05.10:237][913]AssetCheck: New page: Asset Save: WBP_EOSPlayerList
+[2023.10.17-18.05.10:237][913]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList
+[2023.10.17-18.05.12:377][104]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.05.16:358][104]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.17-18.05.19:612][257]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.10.17-18.05.19:647][257]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.17-18.05.19:651][257]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.17-18.05.19:661][258]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.17-18.05.33:322][883]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_EOSPlayer_Item
+[2023.10.17-18.05.33:444][883]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.17-18.05.36:431][239]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.WBP_EOSPlayer_Item
+[2023.10.17-18.05.36:431][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.05.36:444][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.05.36:795][239]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.05.36:795][239]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.06.21:787][424]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.10.17-18.07.13:527][364]LogEditorTransaction: Undo Rename Widget
+[2023.10.17-18.08.23:404][961]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList
+[2023.10.17-18.08.23:405][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.08.23:417][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.08.23:779][961]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.08.23:779][961]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.09.32:810][261]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.17-18.10.43:276][752]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList
+[2023.10.17-18.10.43:277][752]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayerListC3276DBC40CBD4A07CF8D48C11392553.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.uasset'
+[2023.10.17-18.10.43:292][752]AssetCheck: New page: Asset Save: WBP_EOSPlayerList
+[2023.10.17-18.10.43:292][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList
+[2023.10.17-18.11.01:203][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4662.895508
+[2023.10.17-18.11.01:483][554]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.11.01:483][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4663.163574, Update Interval: 344.470337
+[2023.10.17-18.14.27:077][750]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.17-18.15.48:892][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.17-18.15.48:897][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/ishum/Maps/FP_Map_NetworkedCube_Auto5
+[2023.10.17-18.15.48:897][367]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/FP_Map_NetworkedCube_Auto5C81EE4784A10BA6408C8E3944A6A33DB.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/ishum/Maps/FP_Map_NetworkedCube_Auto5.umap'
+[2023.10.17-18.15.48:900][367]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/ishum/Maps/FP_Map_NetworkedCube' took 0.069
+[2023.10.17-18.15.48:900][367]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2023.10.17-18.15.48:901][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode] ([2] browsable assets)...
+[2023.10.17-18.15.48:901][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode]
+[2023.10.17-18.15.48:906][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode_Auto5
+[2023.10.17-18.15.48:906][367]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameMode_Auto50C5B1B9D488104C4DA6725913AFE4346.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode_Auto5.uasset'
+[2023.10.17-18.15.48:906][367]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.10.17-18.17.41:151][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5062.840820
+[2023.10.17-18.17.42:162][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.17.42:162][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5063.514648, Update Interval: 315.859253
+[2023.10.17-18.17.45:515][650]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.17.45:515][650]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.19.18:873][417]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.19.18:873][417]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.23.47:601][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5429.264648
+[2023.10.17-18.23.47:700][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.23.47:700][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5429.355469, Update Interval: 345.731995
+[2023.10.17-18.25.52:112][134]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.27.50:648][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.17-18.27.50:651][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/ishum/Maps/FP_Map_NetworkedCube' took 0.058
+[2023.10.17-18.27.50:651][338]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList] ([2] browsable assets)...
+[2023.10.17-18.27.50:653][338]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList]
+[2023.10.17-18.27.50:653][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList]
+[2023.10.17-18.27.50:658][338]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList_Auto6
+[2023.10.17-18.27.50:658][338]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayerList_Auto66E460BE94C299CD0B429FC9F74B1E750.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList_Auto6.uasset'
+[2023.10.17-18.27.50:659][338]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.10.17-18.28.43:191][333]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item
+[2023.10.17-18.28.43:191][333]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayer_ItemAA1ED473418D3EAB86994C9595C90623.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.uasset'
+[2023.10.17-18.28.43:369][333]AssetCheck: New page: Asset Save: WBP_EOSPlayer_Item
+[2023.10.17-18.28.43:369][333]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.WBP_EOSPlayer_Item
+[2023.10.17-18.28.47:761][748]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.28.47:762][748]LogEditorClassViewer: Warning: Class /DatasmithContent/Blueprints/FBXImporter/UI/AnimationSampleUI.PLACEHOLDER-CLASS__ImportedSequencesHelper_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.28.47:762][748]LogEditorClassViewer: Warning: Class /DatasmithContent/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.PLACEHOLDER-CLASS__AnimationSampleUI_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.28.50:542][  5]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList
+[2023.10.17-18.28.50:543][  5]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayerListEFBCD608479EF878E510EC9F6A2E341F.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.uasset'
+[2023.10.17-18.28.50:556][  5]AssetCheck: New page: Asset Save: WBP_EOSPlayerList
+[2023.10.17-18.28.50:556][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList
+[2023.10.17-18.28.52:056][131]BlueprintLog: New page: Compile WBP_EOSPlayer_Item
+[2023.10.17-18.28.52:128][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.17-18.28.53:700][263]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.30.33:401][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5835.022461
+[2023.10.17-18.30.33:695][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.30.33:695][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5835.307129, Update Interval: 315.491211
+[2023.10.17-18.30.39:752][722]BlueprintLog: New page: Compile BP_EOSGameState
+[2023.10.17-18.30.39:821][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.17-18.30.40:913][829]BlueprintLog: New page: Compile BP_EOSGameMode
+[2023.10.17-18.30.40:985][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.17-18.30.43:221][ 11]BlueprintLog: New page: Compile WBP_EOSPlayerList
+[2023.10.17-18.30.43:275][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.17-18.31.01:208][895]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.31.51:854][469]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList
+[2023.10.17-18.31.51:855][469]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayerList828B81684E6223D3251130917326E67F.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.uasset'
+[2023.10.17-18.31.51:868][469]AssetCheck: New page: Asset Save: WBP_EOSPlayerList
+[2023.10.17-18.31.51:868][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayerList.WBP_EOSPlayerList
+[2023.10.17-18.31.54:818][749]BlueprintLog: New page: Compile BP_EOSGameState
+[2023.10.17-18.31.54:830][749]LogBlueprint: Error: [AssetLog] /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.BP_EOSGameState (no disk path found): [Compiler] The type of  Array  is undetermined.  Connect something to  For Each Loop  to imply a specific type.
+[2023.10.17-18.31.54:830][749]LogBlueprint: Error: [AssetLog] /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.BP_EOSGameState (no disk path found): [Compiler] The type of  Target Array generated from expanding For Each Loop  is undetermined.  Connect something to  Length generated from expanding For Each Loop  to imply a specific type.
+[2023.10.17-18.31.54:905][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.17-18.31.55:566][793]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState
+[2023.10.17-18.31.55:566][793]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameState1834357247C4835CE12D37A744508FF3.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.uasset'
+[2023.10.17-18.31.55:749][793]AssetCheck: New page: Asset Save: BP_EOSGameState
+[2023.10.17-18.31.55:749][793]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.BP_EOSGameState
+[2023.10.17-18.32.44:585][721]BlueprintLog: New page: Compile BP_EOSGameState
+[2023.10.17-18.32.44:659][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.17-18.36.29:399][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6191.028809
+[2023.10.17-18.36.30:408][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.36.30:408][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6191.701660, Update Interval: 303.050629
+[2023.10.17-18.36.43:443][405]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.10.17-18.36.43:502][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.17-18.36.44:909][405]LogSlate: Window 'Save Content' being destroyed
+[2023.10.17-18.36.45:109][405]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode
+[2023.10.17-18.36.45:110][405]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameMode132385854195E1E51EFD6996964E708E.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.uasset'
+[2023.10.17-18.36.45:115][405]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState
+[2023.10.17-18.36.45:116][405]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameState92AA5D1F40BFAB4D4FEF3E8467444319.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.uasset'
+[2023.10.17-18.36.45:117][405]LogFileHelpers: No new changes to save!
+[2023.10.17-18.36.45:165][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.17-18.36.45:170][405]LogSavePackage: Moving output files for package: /Game/Developers/ishum/Maps/FP_Map_NetworkedCube
+[2023.10.17-18.36.45:170][405]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/FP_Map_NetworkedCube300C917D468913088BCC1197C2E4B614.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/ishum/Maps/FP_Map_NetworkedCube.umap'
+[2023.10.17-18.36.45:180][405]LogFileHelpers: Saving map 'FP_Map_NetworkedCube' took 0.064
+[2023.10.17-18.36.45:204][406]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-18.36.45:204][406]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameState.BP_EOSGameState
+[2023.10.17-18.36.45:205][406]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode
+[2023.10.17-18.36.45:205][406]LogContentValidation: Display: Validating World /Game/Developers/ishum/Maps/FP_Map_NetworkedCube.FP_Map_NetworkedCube
+[2023.10.17-18.38.33:820][245]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController
+[2023.10.17-18.38.33:821][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.38.55:233][334]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.39.38:154][726]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.10.17-18.39.38:218][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.17-18.39.39:692][726]LogSlate: Window 'Save Content' being destroyed
+[2023.10.17-18.39.39:853][726]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController
+[2023.10.17-18.39.39:853][726]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSPlayerController7909CDD946F7BBFD09B0328759EC13FD.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.uasset'
+[2023.10.17-18.39.39:880][727]AssetCheck: New page: Asset Save: BP_EOSPlayerController
+[2023.10.17-18.39.39:880][727]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSPlayerController.BP_EOSPlayerController
+[2023.10.17-18.40.24:775][357]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.40.24:775][357]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.40.31:333][781]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.17-18.40.38:700][ 47]BlueprintLog: New page: Compile WBP_EOSPlayer_Item
+[2023.10.17-18.40.38:786][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.17-18.40.39:420][ 86]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item
+[2023.10.17-18.40.39:420][ 86]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayer_ItemA57F336040058B82FC3A279FC6CF2FCE.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.uasset'
+[2023.10.17-18.40.39:434][ 86]AssetCheck: New page: Asset Save: WBP_EOSPlayer_Item
+[2023.10.17-18.40.39:434][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.WBP_EOSPlayer_Item
+[2023.10.17-18.40.41:790][316]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.10.17-18.40.41:850][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.17-18.41.32:821][996]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.17-18.41.59:407][132]LogSlate: Window 'BP_EOSPlayerController' being destroyed
+[2023.10.17-18.41.59:413][132]LogSlate: Window 'BP_EOSPlayerController' being destroyed
+[2023.10.17-18.41.59:417][132]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:417][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.41.59:564][132]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.17-18.41.59:564][132]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:564][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.41.59:682][132]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:682][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.41.59:690][132]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:690][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.41.59:768][132]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:768][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.41.59:775][132]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:775][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.41.59:827][132]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.17-18.41.59:827][132]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.41.59:827][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.42.15:806][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6537.429199
+[2023.10.17-18.42.15:906][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.42.15:906][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6537.520508, Update Interval: 351.862549
+[2023.10.17-18.42.45:575][552]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.10.17-18.42.45:618][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.17-18.42.46:720][552]LogSlate: Window 'Save Content' being destroyed
+[2023.10.17-18.42.46:898][552]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode
+[2023.10.17-18.42.46:899][552]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/BP_EOSGameModeD939390F4BAF94403CFB339F17CCA485.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.uasset'
+[2023.10.17-18.42.46:922][553]AssetCheck: New page: Asset Save: BP_EOSGameMode
+[2023.10.17-18.42.46:922][553]LogContentValidation: Display: Validating Blueprint /Game/Developers/Nate/Blueprints/Gameplay/BP_EOSGameMode.BP_EOSGameMode
+[2023.10.17-18.44.11:943][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Developers/Nate/Blueprints/BP_EOSGameInstance.BP_EOSGameInstance
+[2023.10.17-18.44.11:944][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.48.16:117][966]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.17-18.48.16:124][966]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.17-18.48.16:131][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.17-18.48.17:828][169]LogContentBrowser: Attempting asset rename: NewFolder -> Icons
+[2023.10.17-18.48.17:828][169]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.17-18.48.23:043][415]LogAssetTools: Warning: Failed to import 'C:\Users\Nate\Downloads\volume-off-solid.svg'. Unknown extension 'svg'.
+[2023.10.17-18.48.23:060][415]LogAssetTools: Warning: Failed to import 'C:\Users\Nate\Downloads\volume-xmark-solid.svg'. Unknown extension 'svg'.
+[2023.10.17-18.48.23:076][415]LogAssetTools: Warning: Failed to import 'C:\Users\Nate\Downloads\volume-high-solid.svg'. Unknown extension 'svg'.
+[2023.10.17-18.48.51:850][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6933.496094
+[2023.10.17-18.48.52:851][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.48.52:851][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6934.161621, Update Interval: 348.352295
+[2023.10.17-18.50.09:208][170]AssetReimport: New page: Outstanding source content changes 8:50:09 AM
+[2023.10.17-18.50.09:210][170]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Icons/volume-off-solid.png)
+[2023.10.17-18.50.09:272][171]LogTexture: Display: Building textures: /Game/Developers/Nate/Icons/volume-off-solid.volume-off-solid (TFO_AutoDXT, 320X512 X1X1) (Required Memory Estimate: 3.125 MB), EncodeSpeed: Fast
+[2023.10.17-18.50.09:273][171]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Icons/volume-xmark-solid.png)
+[2023.10.17-18.50.09:278][171]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Icons/volume-high-solid.png)
+[2023.10.17-18.50.09:284][171]LogTexture: Display: Building textures: /Game/Developers/Nate/Icons/volume-high-solid.volume-high-solid (TFO_AutoDXT, 640X512 X1X1) (Required Memory Estimate: 6.250 MB), EncodeSpeed: Fast
+[2023.10.17-18.50.09:631][171]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Icons/volume-off-solid
+[2023.10.17-18.50.09:631][171]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/volume-off-solid06DD79F44AE86128BC3B2188F692A099.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Icons/volume-off-solid.uasset'
+[2023.10.17-18.50.09:643][171]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Icons/volume-xmark-solid
+[2023.10.17-18.50.09:643][171]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/volume-xmark-solid82B36E254FD14F075901B390B569FCD6.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Icons/volume-xmark-solid.uasset'
+[2023.10.17-18.50.09:655][171]LogSavePackage: Moving output files for package: /Game/Developers/Nate/Icons/volume-high-solid
+[2023.10.17-18.50.09:655][171]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/volume-high-solidE791087046D32A5059E7659012E47E27.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Content/Developers/Nate/Icons/volume-high-solid.uasset'
+[2023.10.17-18.50.09:963][172]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.17-18.50.09:963][172]LogContentValidation: Display: Validating Texture2D /Game/Developers/Nate/Icons/volume-high-solid.volume-high-solid
+[2023.10.17-18.50.09:963][172]LogContentValidation: Display: Validating Texture2D /Game/Developers/Nate/Icons/volume-xmark-solid.volume-xmark-solid
+[2023.10.17-18.50.09:963][172]LogContentValidation: Display: Validating Texture2D /Game/Developers/Nate/Icons/volume-off-solid.volume-off-solid
+[2023.10.17-18.50.12:002][400]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Developers/Nate/Icons/volume-high-solid.volume-high-solid
+[2023.10.17-18.50.12:032][400]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.10.17-18.50.12:475][400]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.10.17-18.50.12:937][436]AssetReimport: Importing new asset /Game/Developers/Nate/Icons/volume-off-solid.
+[2023.10.17-18.50.12:937][436]AssetReimport: Importing new asset /Game/Developers/Nate/Icons/volume-xmark-solid.
+[2023.10.17-18.50.12:937][436]AssetReimport: Importing new asset /Game/Developers/Nate/Icons/volume-high-solid.
+[2023.10.17-18.50.14:776][640]LogSlate: Window 'volume-high-solid' being destroyed
+[2023.10.17-18.50.14:783][640]LogSlate: Window 'volume-high-solid' being destroyed
+[2023.10.17-18.50.14:790][640]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.10.17-18.50.14:790][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.17-18.50.34:298][485]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.WBP_EOSPlayer_Item
+[2023.10.17-18.50.34:299][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.50.34:313][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.17-18.50.34:856][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.50.34:856][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.17-18.52.30:501][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.10.17-18.52.30:509][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Developers/ishum/Maps/FP_Map_NetworkedCube' took 0.131
+[2023.10.17-18.52.30:509][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item] ([2] browsable assets)...
+[2023.10.17-18.52.30:511][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item.WBP_EOSPlayer_Item]
+[2023.10.17-18.52.30:511][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item]
+[2023.10.17-18.52.30:516][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item_Auto7
+[2023.10.17-18.52.30:516][940]LogSavePackage: Moving '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/WBP_EOSPlayer_Item_Auto78BFD35824F86A1C0AF7199B8CD179A01.tmp' to '../../../../../../Users/Nate/Documents/SourceTree/PC_Prototypes/Saved/Autosaves/Game/Developers/Nate/Blueprints/Gameplay/WBP_EOSPlayer_Item_Auto7.uasset'
+[2023.10.17-18.52.30:516][940]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.10.17-18.55.20:447][767]LogDerivedDataCache: C:/Users/Nate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.331 and deleted 0 file(s) with total size 0 MiB.
+[2023.10.17-18.55.31:547][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7333.221191
+[2023.10.17-18.55.31:652][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2023.10.17-18.55.31:652][700]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7333.314941, Update Interval: 323.729370
+[2023.10.17-18.57.20:523][505]LogSlate: Window 'Convert To VT' being destroyed
+[2023.10.17-18.57.20:581][505]LogVirtualTextureConversion: Display: Beginning conversion...
+[2023.10.17-18.57.20:585][505]LogVirtualTextureConversion: Display: Broadcasting to editor.
+[2023.10.17-18.57.26:680][161]LogContentBrowser: Deferred new asset file creation: volume-high-solid_Brush
+[2023.10.17-18.57.26:738][161]LogContentBrowser: Creating deferred item: volume-high-solid_Brush
+[2023.10.17-18.57.26:749][162]LogContentBrowser: Renaming the item being created (Deferred Item: volume-high-solid_Brush).
+[2023.10.17-18.57.29:883][533]LogContentBrowser: Attempting asset rename: volume-high-solid_Brush -> volume-high-solid_Brush
+[2023.10.17-18.57.29:991][533]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.10.17-18.57.30:094][533]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.103 s
+[2023.10.17-18.57.30:094][533]LogOutputDevice: Error: === Handled ensure: ===
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: 
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: Ensure condition failed: false [File:D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes\SlateDynamicImageBrush.h] [Line: 119]
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: Stack: 
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf4062be2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf40243d4 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf264d2a0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf1ff177e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce4f5a0ed UnrealEditor-AssetTools.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcc8c81121 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcc8c55f57 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce6567e93 UnrealEditor-ContentBrowserData.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce5aa2edc UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce5a6df5e UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce5ab27f4 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce59efc56 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffce59d5772 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf48f6e6f UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf48d71c2 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf486ba7a UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf4848c72 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf48e12d1 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf48e27c5 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf486e544 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf45f4a85 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf46570b8 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffcf464c181 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd4bcba594 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd4bca9247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd4bcbce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd4bca49a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd84a5e858 USER32.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd84a5e4ee USER32.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x000001f748167f09 InkObj.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x000001f747ca10b8 atlthunk.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd84a5e858 USER32.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd84a5e299 USER32.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd4bcbe148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ff6432a7114 UnrealEditor.exe!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ff6432c0d9c UnrealEditor.exe!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ff6432c0e8a UnrealEditor.exe!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ff6432c3c4d UnrealEditor.exe!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ff6432d5564 UnrealEditor.exe!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ff6432d8736 UnrealEditor.exe!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd84c07344 KERNEL32.DLL!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: [Callstack] 0x00007ffd858e26b1 ntdll.dll!UnknownFunction []
+[2023.10.17-18.57.30:095][533]LogOutputDevice: Error: 

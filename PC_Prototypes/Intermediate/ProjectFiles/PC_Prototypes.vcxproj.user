@@ -10,29 +10,30 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|x64'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
-    <LocalDebuggerCommandArguments>"$(SolutionDir)PC_Prototypes.uproject" -skipcompile</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\PC_Prototypes.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <RemoteDebuggerCommandArguments>"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\PC_Prototypes.uproject" -skipcompile</RemoteDebuggerCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|x64'">
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
     <DebuggerFlavor>AppHostLocalDebugger </DebuggerFlavor>
   </PropertyGroup>
-<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
-	<DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
-</PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>

@@ -1,4 +1,4 @@
-G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Inc\PC_Prototypes\EOS_GameInstance.gen.cpp
+C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Inc\PC_Prototypes\EOS_GameInstance.gen.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -251,8 +251,18 @@ G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Inc\PC_Pr
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Inc\PC_Prototypes
-/I G:\AR_Lego_Therapy\PC_Prototypes\Source
+/I C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Inc\PC_Prototypes
+/I C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Source
+/I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystem
+/I ..\Plugins\Online\OnlineSubsystem
+/I ..\Plugins\Online\OnlineSubsystem\Source
+/I ..\Plugins\Online\OnlineSubsystem\Source\Public
+/I ..\Plugins\Online\OnlineBase
+/I ..\Plugins\Online\OnlineBase\Source\Public
+/I ..\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystemUtils
+/I ..\Plugins\Online\OnlineSubsystemUtils\Source
+/I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
+/I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -267,18 +277,18 @@ G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Inc\PC_Pr
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\Definitions.PC_Prototypes.h"
-/Yu"G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\EOS_GameInstance.gen.cpp.obj"
-/sourceDependencies G:\AR_Lego_Therapy\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\EOS_GameInstance.gen.cpp.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\Definitions.PC_Prototypes.h"
+/Yu"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\PC_PrototypesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\EOS_GameInstance.gen.cpp.obj"
+/sourceDependencies C:\Users\Nate\Documents\SourceTree\PC_Prototypes\Intermediate\Build\Win64\UnrealEditor\Development\PC_Prototypes\EOS_GameInstance.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi
