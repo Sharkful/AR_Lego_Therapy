@@ -14,8 +14,8 @@ enum class EControllerHand : uint8;
 #endif
 #define UXTOOLS_UxtHandInteractionActor_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetHandAngularVelocity); \
 	DECLARE_FUNCTION(execGetHandVelocity); \
@@ -31,7 +31,7 @@ enum class EControllerHand : uint8;
 	DECLARE_FUNCTION(execGetHand);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetHandAngularVelocity); \
 	DECLARE_FUNCTION(execGetHandVelocity); \
@@ -47,7 +47,7 @@ enum class EControllerHand : uint8;
 	DECLARE_FUNCTION(execGetHand);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAUxtHandInteractionActor(); \
 	friend struct Z_Construct_UClass_AUxtHandInteractionActor_Statics; \
@@ -56,7 +56,7 @@ public: \
 	DECLARE_SERIALIZER(AUxtHandInteractionActor)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS \
 private: \
 	static void StaticRegisterNativesAUxtHandInteractionActor(); \
 	friend struct Z_Construct_UClass_AUxtHandInteractionActor_Statics; \
@@ -65,7 +65,7 @@ public: \
 	DECLARE_SERIALIZER(AUxtHandInteractionActor)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AUxtHandInteractionActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUxtHandInteractionActor) \
@@ -78,7 +78,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUxtHandInteractionActor(AUxtHandInteractionActor&&); \
@@ -89,25 +89,25 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUxtHandInteractionActor)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_25_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_25_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h_28_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -115,7 +115,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class AUxtHandInteractionActor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtHandInteractionActor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

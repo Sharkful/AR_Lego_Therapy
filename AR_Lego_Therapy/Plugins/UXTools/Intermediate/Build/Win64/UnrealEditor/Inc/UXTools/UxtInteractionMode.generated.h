@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define UXTOOLS_UxtInteractionMode_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtInteractionMode_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtInteractionMode_h
 
 
 #define FOREACH_ENUM_EUXTINTERACTIONMODE(op) \

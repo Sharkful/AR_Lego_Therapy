@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UXTOOLS_UxtIconBrush_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtIconBrush_h_30_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtIconBrush_h_30_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtIconBrush_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtIconBrush>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtIconBrush_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtIconBrush_h
 
 
 #define FOREACH_ENUM_EUXTICONBRUSHCONTENTTYPE(op) \

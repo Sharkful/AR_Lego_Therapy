@@ -18,8 +18,8 @@ class UInterface;
 #endif
 #define UXTOOLS_UxtInputSubsystem_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execRaiseEndPoke); \
 	DECLARE_FUNCTION(execRaiseUpdatePoke); \
@@ -43,7 +43,7 @@ class UInterface;
 	DECLARE_FUNCTION(execRegisterHandler);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execRaiseEndPoke); \
 	DECLARE_FUNCTION(execRaiseUpdatePoke); \
@@ -67,7 +67,7 @@ class UInterface;
 	DECLARE_FUNCTION(execRegisterHandler);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtInputSubsystem(); \
 	friend struct Z_Construct_UClass_UUxtInputSubsystem_Statics; \
@@ -76,7 +76,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtInputSubsystem)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtInputSubsystem(); \
 	friend struct Z_Construct_UClass_UUxtInputSubsystem_Statics; \
@@ -85,7 +85,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtInputSubsystem)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtInputSubsystem(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtInputSubsystem) \
@@ -98,7 +98,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtInputSubsystem() { }; \
 private: \
@@ -111,25 +111,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtInputSubsystem)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_21_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_21_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -137,7 +137,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtInputSubsystem>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtInputSubsystem_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

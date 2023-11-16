@@ -16,7 +16,7 @@ class USceneComponent;
 #endif
 #define UXTOOLS_UxtTapToPlaceComponent_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_39_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_39_DELEGATE \
 struct _Script_UXTools_eventUxtTapToPlaceBeginFocusDelegate_Parms \
 { \
 	UUxtTapToPlaceComponent* TapToPlace; \
@@ -33,7 +33,7 @@ static inline void FUxtTapToPlaceBeginFocusDelegate_DelegateWrapper(const FMulti
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_41_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_41_DELEGATE \
 struct _Script_UXTools_eventUxtTapToPlaceUpdateFocusDelegate_Parms \
 { \
 	UUxtTapToPlaceComponent* TapToPlace; \
@@ -48,7 +48,7 @@ static inline void FUxtTapToPlaceUpdateFocusDelegate_DelegateWrapper(const FMult
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_43_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_43_DELEGATE \
 struct _Script_UXTools_eventUxtTapToPlaceEndFocusDelegate_Parms \
 { \
 	UUxtTapToPlaceComponent* TapToPlace; \
@@ -65,7 +65,7 @@ static inline void FUxtTapToPlaceEndFocusDelegate_DelegateWrapper(const FMultica
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_44_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_44_DELEGATE \
 struct _Script_UXTools_eventUxtTapToPlaceBeginPlacingDelegate_Parms \
 { \
 	UUxtTapToPlaceComponent* TapToPlace; \
@@ -78,7 +78,7 @@ static inline void FUxtTapToPlaceBeginPlacingDelegate_DelegateWrapper(const FMul
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_45_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_45_DELEGATE \
 struct _Script_UXTools_eventUxtTapToPlaceEndPlacingDelegate_Parms \
 { \
 	UUxtTapToPlaceComponent* TapToPlace; \
@@ -91,8 +91,8 @@ static inline void FUxtTapToPlaceEndPlacingDelegate_DelegateWrapper(const FMulti
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execEndPlacement); \
 	DECLARE_FUNCTION(execStartPlacement); \
@@ -100,7 +100,7 @@ static inline void FUxtTapToPlaceEndPlacingDelegate_DelegateWrapper(const FMulti
 	DECLARE_FUNCTION(execGetTargetComponent);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execEndPlacement); \
 	DECLARE_FUNCTION(execStartPlacement); \
@@ -108,7 +108,7 @@ static inline void FUxtTapToPlaceEndPlacingDelegate_DelegateWrapper(const FMulti
 	DECLARE_FUNCTION(execGetTargetComponent);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtTapToPlaceComponent(); \
 	friend struct Z_Construct_UClass_UUxtTapToPlaceComponent_Statics; \
@@ -118,7 +118,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtTapToPlaceComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtTapToPlaceComponent(); \
 	friend struct Z_Construct_UClass_UUxtTapToPlaceComponent_Statics; \
@@ -128,7 +128,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtTapToPlaceComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtTapToPlaceComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtTapToPlaceComponent) \
@@ -141,7 +141,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UUxtTapToPlaceComponent(UUxtTapToPlaceComponent&&); \
@@ -152,25 +152,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtTapToPlaceComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_53_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_53_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h_59_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -178,7 +178,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtTapToPlaceComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Behaviors_UxtTapToPlaceComponent_h
 
 
 #define FOREACH_ENUM_EUXTTAPTOPLACEORIENTBEHAVIOR(op) \

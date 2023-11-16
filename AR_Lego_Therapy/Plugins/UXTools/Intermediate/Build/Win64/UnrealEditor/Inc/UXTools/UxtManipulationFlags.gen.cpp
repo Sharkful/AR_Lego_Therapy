@@ -325,19 +325,19 @@ void EmptyLinkFunctionForGeneratedCodeUxtManipulationFlags() {}
 		}
 		return Z_Registration_Info_UEnum_EUxtReleaseBehavior.InnerSingleton;
 	}
-	struct Z_CompiledInDeferFile_FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics
+	struct Z_CompiledInDeferFile_FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics::EnumInfo[] = {
 		{ EUxtOneHandRotationMode_StaticEnum, TEXT("EUxtOneHandRotationMode"), &Z_Registration_Info_UEnum_EUxtOneHandRotationMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 433298231U) },
 		{ EUxtTransformMode_StaticEnum, TEXT("EUxtTransformMode"), &Z_Registration_Info_UEnum_EUxtTransformMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3167739638U) },
 		{ EUxtAxisFlags_StaticEnum, TEXT("EUxtAxisFlags"), &Z_Registration_Info_UEnum_EUxtAxisFlags, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 451917700U) },
 		{ EUxtAxis_StaticEnum, TEXT("EUxtAxis"), &Z_Registration_Info_UEnum_EUxtAxis, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 143784765U) },
 		{ EUxtReleaseBehavior_StaticEnum, TEXT("EUxtReleaseBehavior"), &Z_Registration_Info_UEnum_EUxtReleaseBehavior, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3806779488U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_50502220(TEXT("/Script/UXTools"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_50502220(TEXT("/Script/UXTools"),
 		nullptr, 0,
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics::EnumInfo));
+		Z_CompiledInDeferFile_FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtManipulationFlags_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

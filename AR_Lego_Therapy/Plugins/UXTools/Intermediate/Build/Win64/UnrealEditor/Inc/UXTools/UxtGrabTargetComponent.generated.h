@@ -17,15 +17,15 @@ class UUxtNearPointerComponent;
 #endif
 #define UXTOOLS_UxtGrabTargetComponent_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_23_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_23_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtGrabPointerData_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtGrabPointerData>();
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetGripTransform); \
 	DECLARE_FUNCTION(execGetPointerLocation); \
@@ -40,7 +40,7 @@ template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtGrabPointerData>()
 	DECLARE_FUNCTION(execGetGrabLocation);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetGripTransform); \
 	DECLARE_FUNCTION(execGetPointerLocation); \
@@ -55,7 +55,7 @@ template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtGrabPointerData>()
 	DECLARE_FUNCTION(execGetGrabLocation);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtGrabPointerDataFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UUxtGrabPointerDataFunctionLibrary_Statics; \
@@ -64,7 +64,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtGrabPointerDataFunctionLibrary)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtGrabPointerDataFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UUxtGrabPointerDataFunctionLibrary_Statics; \
@@ -73,7 +73,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtGrabPointerDataFunctionLibrary)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtGrabPointerDataFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtGrabPointerDataFunctionLibrary) \
@@ -86,7 +86,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtGrabPointerDataFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -99,32 +99,32 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtGrabPointerDataFunctionLibrary)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_74_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_74_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_77_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> UXTOOLS_API UClass* StaticClass<class UUxtGrabPointerDataFunctionLibrary>();
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_132_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_132_DELEGATE \
 struct _Script_UXTools_eventUxtEnterFarFocusDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -139,7 +139,7 @@ static inline void FUxtEnterFarFocusDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_135_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_135_DELEGATE \
 struct _Script_UXTools_eventUxtUpdateFarFocusDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -154,7 +154,7 @@ static inline void FUxtUpdateFarFocusDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_138_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_138_DELEGATE \
 struct _Script_UXTools_eventUxtExitFarFocusDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -169,7 +169,7 @@ static inline void FUxtExitFarFocusDelegate_DelegateWrapper(const FMulticastScri
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_142_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_142_DELEGATE \
 struct _Script_UXTools_eventUxtEnterGrabFocusDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -184,7 +184,7 @@ static inline void FUxtEnterGrabFocusDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_145_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_145_DELEGATE \
 struct _Script_UXTools_eventUxtUpdateGrabFocusDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -199,7 +199,7 @@ static inline void FUxtUpdateGrabFocusDelegate_DelegateWrapper(const FMulticastS
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_148_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_148_DELEGATE \
 struct _Script_UXTools_eventUxtExitGrabFocusDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -214,7 +214,7 @@ static inline void FUxtExitGrabFocusDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_151_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_151_DELEGATE \
 struct _Script_UXTools_eventUxtBeginGrabDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -229,7 +229,7 @@ static inline void FUxtBeginGrabDelegate_DelegateWrapper(const FMulticastScriptD
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_153_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_153_DELEGATE \
 struct _Script_UXTools_eventUxtUpdateGrabDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -244,7 +244,7 @@ static inline void FUxtUpdateGrabDelegate_DelegateWrapper(const FMulticastScript
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_155_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_155_DELEGATE \
 struct _Script_UXTools_eventUxtEndGrabDelegate_Parms \
 { \
 	UUxtGrabTargetComponent* Grabbable; \
@@ -259,8 +259,8 @@ static inline void FUxtEndGrabDelegate_DelegateWrapper(const FMulticastScriptDel
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetGrabPointers); \
 	DECLARE_FUNCTION(execSetTickOnlyWhileGrabbed); \
@@ -273,7 +273,7 @@ static inline void FUxtEndGrabDelegate_DelegateWrapper(const FMulticastScriptDel
 	DECLARE_FUNCTION(execFindGrabPointer);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetGrabPointers); \
 	DECLARE_FUNCTION(execSetTickOnlyWhileGrabbed); \
@@ -286,7 +286,7 @@ static inline void FUxtEndGrabDelegate_DelegateWrapper(const FMulticastScriptDel
 	DECLARE_FUNCTION(execFindGrabPointer);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtGrabTargetComponent(); \
 	friend struct Z_Construct_UClass_UUxtGrabTargetComponent_Statics; \
@@ -296,7 +296,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtGrabTargetComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtGrabTargetComponent(); \
 	friend struct Z_Construct_UClass_UUxtGrabTargetComponent_Statics; \
@@ -306,7 +306,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtGrabTargetComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtGrabTargetComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtGrabTargetComponent) \
@@ -319,7 +319,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UUxtGrabTargetComponent(UUxtGrabTargetComponent&&); \
@@ -330,25 +330,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtGrabTargetComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_165_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_165_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h_173_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -356,7 +356,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtGrabTargetComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Interactions_UxtGrabTargetComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

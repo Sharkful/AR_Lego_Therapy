@@ -15,7 +15,7 @@ enum class EUxtUIElementVisibility : uint8;
 #endif
 #define UXTOOLS_UxtUIElementComponent_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_23_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_23_DELEGATE \
 struct _Script_UXTools_eventUxtUIElementShowDelegate_Parms \
 { \
 	UUxtUIElementComponent* UIElement; \
@@ -28,7 +28,7 @@ static inline void FUxtUIElementShowDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_24_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_24_DELEGATE \
 struct _Script_UXTools_eventUxtUIElementHideDelegate_Parms \
 { \
 	UUxtUIElementComponent* UIElement; \
@@ -43,8 +43,8 @@ static inline void FUxtUIElementHideDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execRefreshUIElement); \
 	DECLARE_FUNCTION(execSetUIVisibility); \
@@ -52,7 +52,7 @@ static inline void FUxtUIElementHideDelegate_DelegateWrapper(const FMulticastScr
 	DECLARE_FUNCTION(execGetUIVisibilitySelf);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execRefreshUIElement); \
 	DECLARE_FUNCTION(execSetUIVisibility); \
@@ -60,7 +60,7 @@ static inline void FUxtUIElementHideDelegate_DelegateWrapper(const FMulticastScr
 	DECLARE_FUNCTION(execGetUIVisibilitySelf);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtUIElementComponent(); \
 	friend struct Z_Construct_UClass_UUxtUIElementComponent_Statics; \
@@ -69,7 +69,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtUIElementComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtUIElementComponent(); \
 	friend struct Z_Construct_UClass_UUxtUIElementComponent_Statics; \
@@ -78,7 +78,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtUIElementComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtUIElementComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtUIElementComponent) \
@@ -91,7 +91,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UUxtUIElementComponent(UUxtUIElementComponent&&); \
@@ -102,25 +102,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtUIElementComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_36_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_36_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h_39_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -128,7 +128,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtUIElementComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtUIElementComponent_h
 
 
 #define FOREACH_ENUM_EUXTUIELEMENTVISIBILITY(op) \

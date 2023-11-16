@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UXTOOLS_UxtTextBrush_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h_19_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h_19_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtTextBrush_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtTextBrush>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTextBrush_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

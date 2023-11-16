@@ -17,7 +17,7 @@ class UStaticMeshComponent;
 #endif
 #define UXTOOLS_UxtPinchSliderComponent_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_37_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_37_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderUpdateStateDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -32,7 +32,7 @@ static inline void FUxtPinchSliderUpdateStateDelegate_DelegateWrapper(const FMul
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_39_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_39_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderBeginFocusDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -49,7 +49,7 @@ static inline void FUxtPinchSliderBeginFocusDelegate_DelegateWrapper(const FMult
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_41_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_41_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderUpdateFocusDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -64,7 +64,7 @@ static inline void FUxtPinchSliderUpdateFocusDelegate_DelegateWrapper(const FMul
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_43_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_43_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderEndFocusDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -81,7 +81,7 @@ static inline void FUxtPinchSliderEndFocusDelegate_DelegateWrapper(const FMultic
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_45_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_45_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderBeginGrabDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -96,7 +96,7 @@ static inline void FUxtPinchSliderBeginGrabDelegate_DelegateWrapper(const FMulti
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_46_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_46_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderUpdateValueDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -111,7 +111,7 @@ static inline void FUxtPinchSliderUpdateValueDelegate_DelegateWrapper(const FMul
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_48_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_48_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderEndGrabDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -126,7 +126,7 @@ static inline void FUxtPinchSliderEndGrabDelegate_DelegateWrapper(const FMultica
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_49_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_49_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderEnableDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -139,7 +139,7 @@ static inline void FUxtPinchSliderEnableDelegate_DelegateWrapper(const FMulticas
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_50_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_50_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderDisableDelegate_Parms \
 { \
 	UUxtPinchSliderComponent* Slider; \
@@ -152,8 +152,8 @@ static inline void FUxtPinchSliderDisableDelegate_DelegateWrapper(const FMultica
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetCollisionProfile); \
 	DECLARE_FUNCTION(execGetCollisionProfile); \
@@ -177,7 +177,7 @@ static inline void FUxtPinchSliderDisableDelegate_DelegateWrapper(const FMultica
 	DECLARE_FUNCTION(execGetState);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetCollisionProfile); \
 	DECLARE_FUNCTION(execGetCollisionProfile); \
@@ -201,7 +201,7 @@ static inline void FUxtPinchSliderDisableDelegate_DelegateWrapper(const FMultica
 	DECLARE_FUNCTION(execGetState);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtPinchSliderComponent(); \
 	friend struct Z_Construct_UClass_UUxtPinchSliderComponent_Statics; \
@@ -211,7 +211,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtPinchSliderComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtPinchSliderComponent(); \
 	friend struct Z_Construct_UClass_UUxtPinchSliderComponent_Statics; \
@@ -221,7 +221,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtPinchSliderComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtPinchSliderComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtPinchSliderComponent) \
@@ -234,7 +234,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtPinchSliderComponent() { }; \
 private: \
@@ -247,25 +247,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtPinchSliderComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_57_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_57_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h_65_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -273,7 +273,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtPinchSliderComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderComponent_h
 
 
 #define FOREACH_ENUM_EUXTSLIDERSTATE(op) \

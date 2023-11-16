@@ -13,21 +13,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UXTOOLS_UxtButtonBrush_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h_21_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h_21_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtButtonVisualsBrush_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtButtonVisualsBrush>();
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h_75_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h_75_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtButtonAudioBrush_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtButtonAudioBrush>();
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h_93_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h_93_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FUxtButtonBrush_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -35,7 +35,7 @@ template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtButtonAudioBrush>(
 template<> UXTOOLS_API UScriptStruct* StaticStruct<struct FUxtButtonBrush>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtButtonBrush_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

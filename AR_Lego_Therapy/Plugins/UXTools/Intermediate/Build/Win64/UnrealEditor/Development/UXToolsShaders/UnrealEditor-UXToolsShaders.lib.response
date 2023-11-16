@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UXToolsShaders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\chuk5\Documents\AR_Lego_Therapy\AR_Lego_Therapy\Intermediate\Build\Win64\UnrealEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"C:\Users\chuk5\Documents\AR_Lego_Therapy\AR_Lego_Therapy\Plugins\UXTools\Intermediate\Build\Win64\UnrealEditor\Development\UXToolsShaders\UXToolsShaders.cpp.obj"
+"C:\Users\chuk5\Documents\AR_Lego_Therapy\AR_Lego_Therapy\Plugins\UXTools\Intermediate\Build\Win64\UnrealEditor\Development\UXToolsShaders\Default.rc2.res"
+/OUT:"C:\Users\chuk5\Documents\AR_Lego_Therapy\AR_Lego_Therapy\Plugins\UXTools\Intermediate\Build\Win64\UnrealEditor\Development\UXToolsShaders\UnrealEditor-UXToolsShaders.lib"

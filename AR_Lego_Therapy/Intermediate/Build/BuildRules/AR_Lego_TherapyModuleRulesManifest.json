@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\UXToolsShaders\\UXToolsShaders.Build.cs",
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\XRSimulationEditor\\XRSimulationEditor.Build.cs",
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\UXTools\\UXTools.Build.cs",
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\XRSimulation\\XRSimulation.Build.cs",
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\UXToolsInput\\UXToolsInput.Build.cs",
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\UXToolsEditor\\UXToolsEditor.Build.cs",
+		"C:\\Users\\chuk5\\Documents\\AR_Lego_Therapy\\AR_Lego_Therapy\\Plugins\\UXTools\\Source\\XRSimulationInput\\XRSimulationInput.Build.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

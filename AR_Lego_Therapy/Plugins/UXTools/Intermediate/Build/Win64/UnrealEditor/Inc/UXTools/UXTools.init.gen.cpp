@@ -145,7 +145,7 @@ void EmptyLinkFunctionForGeneratedCodeUXTools_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xDEA6F7B7,
+				0x1DE552D1,
 				0xDFF9F85D,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -153,5 +153,5 @@ void EmptyLinkFunctionForGeneratedCodeUXTools_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_UXTools.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_UXTools(Z_Construct_UPackage__Script_UXTools, TEXT("/Script/UXTools"), Z_Registration_Info_UPackage__Script_UXTools, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xDEA6F7B7, 0xDFF9F85D));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_UXTools(Z_Construct_UPackage__Script_UXTools, TEXT("/Script/UXTools"), Z_Registration_Info_UPackage__Script_UXTools, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x1DE552D1, 0xDFF9F85D));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

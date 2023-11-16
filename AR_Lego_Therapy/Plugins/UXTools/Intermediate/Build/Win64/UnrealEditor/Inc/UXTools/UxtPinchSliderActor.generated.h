@@ -20,7 +20,7 @@ struct FLinearColor;
 #endif
 #define UXTOOLS_UxtPinchSliderActor_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_18_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_18_DELEGATE \
 struct _Script_UXTools_eventUxtPinchSliderValueUpdatedDelegate_Parms \
 { \
 	AUxtPinchSliderActor* Slider; \
@@ -35,8 +35,8 @@ static inline void FUxtPinchSliderValueUpdatedDelegate_DelegateWrapper(const FMu
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnUpdateTimeline); \
 	DECLARE_FUNCTION(execOnEndGrab); \
@@ -91,7 +91,7 @@ static inline void FUxtPinchSliderValueUpdatedDelegate_DelegateWrapper(const FMu
 	DECLARE_FUNCTION(execGetValue);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnUpdateTimeline); \
 	DECLARE_FUNCTION(execOnEndGrab); \
@@ -146,7 +146,7 @@ static inline void FUxtPinchSliderValueUpdatedDelegate_DelegateWrapper(const FMu
 	DECLARE_FUNCTION(execGetValue);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAUxtPinchSliderActor(); \
 	friend struct Z_Construct_UClass_AUxtPinchSliderActor_Statics; \
@@ -155,7 +155,7 @@ public: \
 	DECLARE_SERIALIZER(AUxtPinchSliderActor)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS \
 private: \
 	static void StaticRegisterNativesAUxtPinchSliderActor(); \
 	friend struct Z_Construct_UClass_AUxtPinchSliderActor_Statics; \
@@ -164,7 +164,7 @@ public: \
 	DECLARE_SERIALIZER(AUxtPinchSliderActor)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AUxtPinchSliderActor(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUxtPinchSliderActor) \
@@ -177,7 +177,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUxtPinchSliderActor(AUxtPinchSliderActor&&); \
@@ -188,25 +188,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUxtPinchSliderActor)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_24_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_24_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h_27_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -214,7 +214,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class AUxtPinchSliderActor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtPinchSliderActor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

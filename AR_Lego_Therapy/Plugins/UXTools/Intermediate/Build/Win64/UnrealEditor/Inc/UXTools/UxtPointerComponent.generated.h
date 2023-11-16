@@ -14,8 +14,8 @@ class UObject;
 #endif
 #define UXTOOLS_UxtPointerComponent_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetCursorTransform); \
 	DECLARE_FUNCTION(execGetFocusTarget); \
@@ -23,7 +23,7 @@ class UObject;
 	DECLARE_FUNCTION(execGetFocusLocked);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetCursorTransform); \
 	DECLARE_FUNCTION(execGetFocusTarget); \
@@ -31,7 +31,7 @@ class UObject;
 	DECLARE_FUNCTION(execGetFocusLocked);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtPointerComponent(); \
 	friend struct Z_Construct_UClass_UUxtPointerComponent_Statics; \
@@ -40,7 +40,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtPointerComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtPointerComponent(); \
 	friend struct Z_Construct_UClass_UUxtPointerComponent_Statics; \
@@ -49,7 +49,7 @@ public: \
 	DECLARE_SERIALIZER(UUxtPointerComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtPointerComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtPointerComponent) \
@@ -62,7 +62,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UUxtPointerComponent(UUxtPointerComponent&&); \
@@ -73,25 +73,25 @@ public: \
 	DEFINE_ABSTRACT_DEFAULT_CONSTRUCTOR_CALL(UUxtPointerComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_16_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_16_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -99,7 +99,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtPointerComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Input_UxtPointerComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -15,8 +15,8 @@ class IUxtPokeTarget;
 #endif
 #define UXTOOLS_UxtCollectionObject_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS \
 	virtual TScriptInterface<IUxtFarTarget> GetFarTarget_Implementation() { return NULL; }; \
 	virtual TScriptInterface<IUxtPokeTarget> GetPokeTarget_Implementation() { return NULL; }; \
  \
@@ -24,7 +24,7 @@ class IUxtPokeTarget;
 	DECLARE_FUNCTION(execGetPokeTarget);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual TScriptInterface<IUxtFarTarget> GetFarTarget_Implementation() { return NULL; }; \
 	virtual TScriptInterface<IUxtPokeTarget> GetPokeTarget_Implementation() { return NULL; }; \
  \
@@ -32,7 +32,7 @@ class IUxtPokeTarget;
 	DECLARE_FUNCTION(execGetPokeTarget);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_EVENT_PARMS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_EVENT_PARMS \
 	struct UxtCollectionObject_eventGetFarTarget_Parms \
 	{ \
 		TScriptInterface<IUxtFarTarget> ReturnValue; \
@@ -43,8 +43,8 @@ class IUxtPokeTarget;
 	};
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_CALLBACK_WRAPPERS
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_CALLBACK_WRAPPERS
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtCollectionObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtCollectionObject) \
@@ -57,7 +57,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtCollectionObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -70,7 +70,7 @@ public: \
 	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtCollectionObject)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_UINTERFACE_BODY() \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUUxtCollectionObject(); \
 	friend struct Z_Construct_UClass_UUxtCollectionObject_Statics; \
@@ -79,22 +79,22 @@ public: \
 	DECLARE_SERIALIZER(UUxtCollectionObject)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_BODY_LEGACY \
 		PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_UINTERFACE_BODY() \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_UINTERFACE_BODY() \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_STANDARD_CONSTRUCTORS \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_UINTERFACE_BODY() \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_GENERATED_UINTERFACE_BODY() \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IUxtCollectionObject() {} \
 public: \
@@ -105,7 +105,7 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE \
 protected: \
 	virtual ~IUxtCollectionObject() {} \
 public: \
@@ -116,28 +116,28 @@ public: \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_15_PROLOG \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_EVENT_PARMS
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_15_PROLOG \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_EVENT_PARMS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_24_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_24_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_CALLBACK_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_CALLBACK_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_24_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_CALLBACK_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_CALLBACK_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h_18_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -145,7 +145,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtCollectionObject>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtCollectionObject_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

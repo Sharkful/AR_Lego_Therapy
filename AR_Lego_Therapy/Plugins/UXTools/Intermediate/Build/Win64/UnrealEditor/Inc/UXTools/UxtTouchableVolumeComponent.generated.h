@@ -16,7 +16,7 @@ class UPrimitiveComponent;
 #endif
 #define UXTOOLS_UxtTouchableVolumeComponent_generated_h
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_27_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_27_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeBeginFocusDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -33,7 +33,7 @@ static inline void FUxtVolumeBeginFocusDelegate_DelegateWrapper(const FMulticast
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_29_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_29_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeUpdateFocusDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -48,7 +48,7 @@ static inline void FUxtVolumeUpdateFocusDelegate_DelegateWrapper(const FMulticas
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_31_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_31_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeEndFocusDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -65,7 +65,7 @@ static inline void FUxtVolumeEndFocusDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_33_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_33_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeBeginPokeDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -80,7 +80,7 @@ static inline void FUxtVolumeBeginPokeDelegate_DelegateWrapper(const FMulticastS
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_35_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_35_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeUpdatePokeDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -95,7 +95,7 @@ static inline void FUxtVolumeUpdatePokeDelegate_DelegateWrapper(const FMulticast
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_37_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_37_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeEndPokeDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -110,7 +110,7 @@ static inline void FUxtVolumeEndPokeDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_38_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_38_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeEnabledDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -123,7 +123,7 @@ static inline void FUxtVolumeEnabledDelegate_DelegateWrapper(const FMulticastScr
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_39_DELEGATE \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_39_DELEGATE \
 struct _Script_UXTools_eventUxtVolumeDisabledDelegate_Parms \
 { \
 	UUxtTouchableVolumeComponent* Volume; \
@@ -136,8 +136,8 @@ static inline void FUxtVolumeDisabledDelegate_DelegateWrapper(const FMulticastSc
 }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_SPARSE_DATA
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_SPARSE_DATA
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnInputTouchLeaveHandler); \
 	DECLARE_FUNCTION(execOnInputTouchEndHandler); \
@@ -145,7 +145,7 @@ static inline void FUxtVolumeDisabledDelegate_DelegateWrapper(const FMulticastSc
 	DECLARE_FUNCTION(execSetEnabled);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnInputTouchLeaveHandler); \
 	DECLARE_FUNCTION(execOnInputTouchEndHandler); \
@@ -153,7 +153,7 @@ static inline void FUxtVolumeDisabledDelegate_DelegateWrapper(const FMulticastSc
 	DECLARE_FUNCTION(execSetEnabled);
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS_NO_PURE_DECLS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUUxtTouchableVolumeComponent(); \
 	friend struct Z_Construct_UClass_UUxtTouchableVolumeComponent_Statics; \
@@ -163,7 +163,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtTouchableVolumeComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS \
 private: \
 	static void StaticRegisterNativesUUxtTouchableVolumeComponent(); \
 	friend struct Z_Construct_UClass_UUxtTouchableVolumeComponent_Statics; \
@@ -173,7 +173,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<UUxtTouchableVolumeComponent*>(this); }
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_STANDARD_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtTouchableVolumeComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUxtTouchableVolumeComponent) \
@@ -186,7 +186,7 @@ private: \
 public:
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_ENHANCED_CONSTRUCTORS \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UUxtTouchableVolumeComponent() { }; \
 private: \
@@ -199,25 +199,25 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUxtTouchableVolumeComponent)
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_44_PROLOG
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_GENERATED_BODY_LEGACY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_44_PROLOG
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_STANDARD_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_GENERATED_BODY \
+#define FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_SPARSE_DATA \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_ENHANCED_CONSTRUCTORS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_SPARSE_DATA \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_INCLASS_NO_PURE_DECLS \
+	FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h_52_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -225,7 +225,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UXTOOLS_API UClass* StaticClass<class UUxtTouchableVolumeComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_HostProject_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h
+#define CURRENT_FILE_ID FID_AR_Lego_Therapy_Plugins_UXTools_Source_UXTools_Public_Controls_UxtTouchableVolumeComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

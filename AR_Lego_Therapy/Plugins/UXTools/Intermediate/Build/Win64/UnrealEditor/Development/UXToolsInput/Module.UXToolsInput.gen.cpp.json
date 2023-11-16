@@ -1,0 +1,32 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\development\\uxtoolsinput\\module.uxtoolsinput.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.noundef.h.pch",
+        "Includes": [
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\development\\uxtoolsinput\\definitions.uxtoolsinput.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\inc\\uxtoolsinput\\uxtdefaulthandtrackersubsystem.gen.cpp",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\source\\uxtoolsinput\\private\\uxtdefaulthandtrackersubsystem.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\source\\uxtoolsinput\\private\\uxtdefaulthandtracker.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\headmounteddisplaytypes.generated.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\source\\uxtools\\public\\handtracking\\iuxthandtracker.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\inc\\uxtoolsinput\\uxtdefaulthandtrackersubsystem.generated.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\inc\\uxtoolsinput\\uxtoolsinput.init.gen.cpp",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\inc\\uxtoolsinput\\uxtxrsimulationsubsystem.gen.cpp",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\source\\uxtoolsinput\\private\\uxtxrsimulationsubsystem.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\source\\xrsimulation\\public\\xrsimulationstate.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\subsystems\\localplayersubsystem.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\localplayersubsystem.generated.h",
+            "c:\\users\\chuk5\\documents\\ar_lego_therapy\\ar_lego_therapy\\plugins\\uxtools\\intermediate\\build\\win64\\unrealeditor\\inc\\uxtoolsinput\\uxtxrsimulationsubsystem.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\localplayer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\player.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\player.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\localplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
