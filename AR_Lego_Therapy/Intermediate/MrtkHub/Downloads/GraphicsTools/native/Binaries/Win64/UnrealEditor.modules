@@ -1,8 +1,0 @@
-{
-	"BuildId": "19505902",
-	"Modules": 
-	{
-		"GraphicsTools": "UnrealEditor-GraphicsTools.dll",
-		"GraphicsToolsEditor": "UnrealEditor-GraphicsToolsEditor.dll"
-	}
-}

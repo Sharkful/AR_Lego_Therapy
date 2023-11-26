@@ -72,5 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-PC_Prototypes/Binaries/Win64/UnrealEditor-PC_Prototypes.pdb
-PC_Prototypes/Binaries/Win64/UnrealEditor-PC_Prototypes.pdb
+*.ini
+*.log
